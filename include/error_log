@@ -1,0 +1,415 @@
+[29-Nov-2010 05:58:05] PHP Notice:  Undefined index:  paid_views in /home/mh5sule/public_html/zubbr/core/session.php on line 28
+[29-Nov-2010 05:58:05] PHP Notice:  Undefined index:  free_views in /home/mh5sule/public_html/zubbr/core/session.php on line 29
+[29-Nov-2010 05:58:05] PHP Notice:  Undefined index:  none_views in /home/mh5sule/public_html/zubbr/core/session.php on line 30
+[29-Nov-2010 05:58:18] PHP Notice:  Undefined index:  paid_views in /home/mh5sule/public_html/zubbr/core/session.php on line 28
+[29-Nov-2010 05:58:18] PHP Notice:  Undefined index:  free_views in /home/mh5sule/public_html/zubbr/core/session.php on line 29
+[29-Nov-2010 05:58:18] PHP Notice:  Undefined index:  none_views in /home/mh5sule/public_html/zubbr/core/session.php on line 30
+[29-Nov-2010 06:00:02] PHP Notice:  Undefined index:  paid_views in /home/mh5sule/public_html/zubbr/core/session.php on line 28
+[29-Nov-2010 06:00:02] PHP Notice:  Undefined index:  free_views in /home/mh5sule/public_html/zubbr/core/session.php on line 29
+[29-Nov-2010 06:00:02] PHP Notice:  Undefined index:  none_views in /home/mh5sule/public_html/zubbr/core/session.php on line 30
+[29-Nov-2010 06:00:02] PHP Parse error:  syntax error, unexpected $end in /home/mh5sule/public_html/zubbr/core/university.php on line 240
+[29-Nov-2010 06:01:17] PHP Notice:  Undefined index:  paid_views in /home/mh5sule/public_html/zubbr/core/session.php on line 28
+[29-Nov-2010 06:01:17] PHP Notice:  Undefined index:  free_views in /home/mh5sule/public_html/zubbr/core/session.php on line 29
+[29-Nov-2010 06:01:17] PHP Notice:  Undefined index:  none_views in /home/mh5sule/public_html/zubbr/core/session.php on line 30
+[29-Nov-2010 06:01:29] PHP Notice:  Undefined index:  paid_views in /home/mh5sule/public_html/zubbr/core/session.php on line 28
+[29-Nov-2010 06:01:29] PHP Notice:  Undefined index:  free_views in /home/mh5sule/public_html/zubbr/core/session.php on line 29
+[29-Nov-2010 06:01:29] PHP Notice:  Undefined index:  none_views in /home/mh5sule/public_html/zubbr/core/session.php on line 30
+[29-Nov-2010 06:04:17] PHP Notice:  Undefined index:  paid_views in /home/mh5sule/public_html/zubbr/core/session.php on line 28
+[29-Nov-2010 06:04:17] PHP Notice:  Undefined index:  free_views in /home/mh5sule/public_html/zubbr/core/session.php on line 29
+[29-Nov-2010 06:04:17] PHP Notice:  Undefined index:  none_views in /home/mh5sule/public_html/zubbr/core/session.php on line 30
+[29-Nov-2010 06:04:22] PHP Notice:  Undefined index:  paid_views in /home/mh5sule/public_html/zubbr/core/session.php on line 28
+[29-Nov-2010 06:04:22] PHP Notice:  Undefined index:  free_views in /home/mh5sule/public_html/zubbr/core/session.php on line 29
+[29-Nov-2010 06:04:22] PHP Notice:  Undefined index:  none_views in /home/mh5sule/public_html/zubbr/core/session.php on line 30
+[29-Nov-2010 06:04:27] PHP Notice:  Undefined index:  paid_views in /home/mh5sule/public_html/zubbr/core/session.php on line 28
+[29-Nov-2010 06:04:27] PHP Notice:  Undefined index:  free_views in /home/mh5sule/public_html/zubbr/core/session.php on line 29
+[29-Nov-2010 06:04:27] PHP Notice:  Undefined index:  none_views in /home/mh5sule/public_html/zubbr/core/session.php on line 30
+[29-Nov-2010 06:05:35] PHP Notice:  Undefined index:  paid_views in /home/mh5sule/public_html/zubbr/core/session.php on line 28
+[29-Nov-2010 06:05:35] PHP Notice:  Undefined index:  free_views in /home/mh5sule/public_html/zubbr/core/session.php on line 29
+[29-Nov-2010 06:05:35] PHP Notice:  Undefined index:  none_views in /home/mh5sule/public_html/zubbr/core/session.php on line 30
+[29-Nov-2010 06:15:58] PHP Notice:  Undefined index:  paid_views in /home/mh5sule/public_html/zubbr/core/session.php on line 28
+[29-Nov-2010 06:15:58] PHP Notice:  Undefined index:  free_views in /home/mh5sule/public_html/zubbr/core/session.php on line 29
+[29-Nov-2010 06:15:58] PHP Notice:  Undefined index:  none_views in /home/mh5sule/public_html/zubbr/core/session.php on line 30
+[29-Nov-2010 06:16:45] PHP Notice:  Undefined index:  paid_views in /home/mh5sule/public_html/zubbr/core/session.php on line 28
+[29-Nov-2010 06:16:45] PHP Notice:  Undefined index:  free_views in /home/mh5sule/public_html/zubbr/core/session.php on line 29
+[29-Nov-2010 06:16:45] PHP Notice:  Undefined index:  none_views in /home/mh5sule/public_html/zubbr/core/session.php on line 30
+[03-Dec-2010 05:48:32] PHP Notice:  Undefined index:  id in /home/mh5sule/public_html/zubbr/include/_inline_editor_controller.php on line 9
+[03-Dec-2010 05:48:32] PHP Notice:  Undefined index:  id in /home/mh5sule/public_html/zubbr/include/_inline_editor_controller.php on line 13
+[03-Dec-2010 05:48:32] PHP Notice:  Undefined index:  id in /home/mh5sule/public_html/zubbr/include/_inline_editor_controller.php on line 16
+[03-Dec-2010 05:48:32] PHP Notice:  Undefined index:  id in /home/mh5sule/public_html/zubbr/include/_inline_editor_controller.php on line 19
+[03-Dec-2010 05:48:32] PHP Notice:  Undefined index:  value in /home/mh5sule/public_html/zubbr/include/_inline_editor_controller.php on line 23
+[03-Dec-2010 05:48:32] PHP Notice:  Undefined index:  reg_university in /home/mh5sule/public_html/zubbr/include/_inline_editor_controller.php on line 37
+[03-Dec-2010 05:49:10] PHP Notice:  Undefined index:  id in /home/mh5sule/public_html/zubbr/include/_inline_editor_controller.php on line 9
+[03-Dec-2010 05:49:10] PHP Notice:  Undefined index:  id in /home/mh5sule/public_html/zubbr/include/_inline_editor_controller.php on line 13
+[03-Dec-2010 05:49:10] PHP Notice:  Undefined index:  id in /home/mh5sule/public_html/zubbr/include/_inline_editor_controller.php on line 16
+[03-Dec-2010 05:49:10] PHP Notice:  Undefined index:  id in /home/mh5sule/public_html/zubbr/include/_inline_editor_controller.php on line 19
+[03-Dec-2010 05:49:10] PHP Notice:  Undefined index:  value in /home/mh5sule/public_html/zubbr/include/_inline_editor_controller.php on line 23
+[03-Dec-2010 05:49:10] PHP Notice:  Undefined index:  reg_university in /home/mh5sule/public_html/zubbr/include/_inline_editor_controller.php on line 37
+[10-Dec-2010 05:47:26] PHP Fatal error:  Call to undefined method Tag::find_by_title() in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 4
+[10-Dec-2010 05:47:36] PHP Fatal error:  Call to undefined method Tag::find_by_title() in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 4
+[10-Dec-2010 05:47:37] PHP Fatal error:  Call to undefined method Tag::find_by_title() in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 4
+[10-Dec-2010 11:40:53] PHP Fatal error:  Call to undefined method Tag::save() in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 45
+[10-Dec-2010 11:41:03] PHP Fatal error:  Call to undefined method Tag::save() in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 45
+[03-Feb-2011 10:14:35] PHP Notice:  Use of undefined constant tag_name - assumed 'tag_name' in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 74
+[11-Feb-2011 13:01:02] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 30
+[11-Feb-2011 13:01:02] PHP Notice:  Undefined index:  action in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 33
+[11-Feb-2011 13:01:05] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 15
+[11-Feb-2011 13:01:05] PHP Notice:  Undefined index:  action in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 33
+[11-Feb-2011 13:01:22] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 15
+[11-Feb-2011 13:01:22] PHP Notice:  Undefined index:  action in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 33
+[11-Feb-2011 13:01:29] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 30
+[11-Feb-2011 13:01:29] PHP Notice:  Undefined index:  action in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 33
+[11-Feb-2011 13:01:30] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 30
+[11-Feb-2011 13:01:30] PHP Notice:  Undefined index:  action in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 33
+[11-Feb-2011 13:01:31] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 30
+[11-Feb-2011 13:01:31] PHP Notice:  Undefined index:  action in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 33
+[11-Feb-2011 13:01:32] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 30
+[11-Feb-2011 13:01:32] PHP Notice:  Undefined index:  action in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 33
+[11-Feb-2011 13:01:34] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 30
+[11-Feb-2011 13:01:34] PHP Notice:  Undefined index:  action in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 33
+[11-Feb-2011 13:01:34] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 30
+[11-Feb-2011 13:01:34] PHP Notice:  Undefined index:  action in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 33
+[11-Feb-2011 13:01:36] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 30
+[11-Feb-2011 13:01:36] PHP Notice:  Undefined index:  action in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 33
+[11-Feb-2011 13:01:39] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 30
+[11-Feb-2011 13:01:39] PHP Notice:  Undefined index:  action in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 33
+[11-Feb-2011 13:01:40] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 30
+[11-Feb-2011 13:01:40] PHP Notice:  Undefined index:  action in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 33
+[11-Feb-2011 13:01:41] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 30
+[11-Feb-2011 13:01:41] PHP Notice:  Undefined index:  action in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 33
+[11-Feb-2011 13:01:41] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 30
+[11-Feb-2011 13:01:41] PHP Notice:  Undefined index:  action in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 33
+[11-Feb-2011 13:01:42] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 30
+[11-Feb-2011 13:01:42] PHP Notice:  Undefined index:  action in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 33
+[11-Feb-2011 13:01:43] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 30
+[11-Feb-2011 13:01:43] PHP Notice:  Undefined index:  action in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 33
+[11-Feb-2011 13:01:44] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 30
+[11-Feb-2011 13:01:44] PHP Notice:  Undefined index:  action in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 33
+[11-Feb-2011 13:01:45] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 30
+[11-Feb-2011 13:01:45] PHP Notice:  Undefined index:  action in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 33
+[11-Feb-2011 13:01:56] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 30
+[11-Feb-2011 13:01:56] PHP Notice:  Undefined index:  action in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 33
+[11-Feb-2011 13:01:56] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 30
+[11-Feb-2011 13:01:56] PHP Notice:  Undefined index:  action in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 33
+[11-Feb-2011 13:01:57] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 30
+[11-Feb-2011 13:01:57] PHP Notice:  Undefined index:  action in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 33
+[11-Feb-2011 13:01:58] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 30
+[11-Feb-2011 13:01:58] PHP Notice:  Undefined index:  action in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 33
+[11-Feb-2011 13:01:58] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 30
+[11-Feb-2011 13:01:58] PHP Notice:  Undefined index:  action in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 33
+[11-Feb-2011 13:01:59] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 30
+[11-Feb-2011 13:01:59] PHP Notice:  Undefined index:  action in /home/mh5sule/public_html/zubbr/include/_ask_controller.php on line 33
+[18-Feb-2011 05:54:58] PHP Notice:  Use of undefined constant ajax - assumed 'ajax' in /home/mh5sule/public_html/testkz/include/_logged_in_controller.php on line 5
+[18-Feb-2011 05:55:00] PHP Notice:  Use of undefined constant ajax - assumed 'ajax' in /home/mh5sule/public_html/testkz/include/_logged_in_controller.php on line 5
+[18-Feb-2011 05:55:01] PHP Notice:  Use of undefined constant ajax - assumed 'ajax' in /home/mh5sule/public_html/testkz/include/_logged_in_controller.php on line 5
+[18-Feb-2011 05:55:01] PHP Notice:  Use of undefined constant ajax - assumed 'ajax' in /home/mh5sule/public_html/testkz/include/_logged_in_controller.php on line 5
+[18-Feb-2011 05:55:24] PHP Notice:  Use of undefined constant ajax - assumed 'ajax' in /home/mh5sule/public_html/testkz/include/_logged_in_controller.php on line 5
+[18-Feb-2011 05:55:50] PHP Notice:  Use of undefined constant ajax - assumed 'ajax' in /home/mh5sule/public_html/testkz/include/_logged_in_controller.php on line 5
+[18-Feb-2011 05:55:53] PHP Notice:  Use of undefined constant ajax - assumed 'ajax' in /home/mh5sule/public_html/testkz/include/_logged_in_controller.php on line 5
+[18-Feb-2011 06:09:24] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_profile_controller.php on line 26
+[18-Feb-2011 06:09:24] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_profile_controller.php on line 26
+[18-Feb-2011 06:09:30] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_profile_controller.php on line 26
+[18-Feb-2011 06:09:30] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_profile_controller.php on line 26
+[18-Feb-2011 06:09:54] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_profile_controller.php on line 26
+[18-Feb-2011 06:09:54] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_profile_controller.php on line 26
+[18-Feb-2011 06:11:08] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_profile_controller.php on line 26
+[18-Feb-2011 06:11:08] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_profile_controller.php on line 26
+[18-Feb-2011 06:17:01] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_profile_controller.php on line 26
+[18-Feb-2011 06:17:01] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_profile_controller.php on line 26
+[18-Feb-2011 06:17:06] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_profile_controller.php on line 26
+[18-Feb-2011 06:17:06] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_profile_controller.php on line 26
+[18-Feb-2011 06:17:28] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_profile_controller.php on line 26
+[18-Feb-2011 06:17:28] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_profile_controller.php on line 26
+[18-Feb-2011 06:23:52] PHP Notice:  Undefined index:  action in /home/mh5sule/public_html/testkz/include/_ask_controller.php on line 33
+[18-Feb-2011 06:24:07] PHP Notice:  Undefined index:  action in /home/mh5sule/public_html/testkz/include/_ask_controller.php on line 33
+[24-Feb-2011 08:52:07] PHP Fatal error:  Class 'Jobpostings' not found in /home/mh5sule/public_html/testkz/include/_vertical_slider.php on line 41
+[24-Feb-2011 08:52:08] PHP Fatal error:  Class 'Jobpostings' not found in /home/mh5sule/public_html/testkz/include/_vertical_slider.php on line 41
+[30-Mar-2011 08:55:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_jobpostings.php:16) in /home/mh5sule/public_html/testkz/include/_jobpostings.php on line 28
+[30-Mar-2011 10:04:49] PHP Parse error:  syntax error, unexpected '}' in /home/mh5sule/public_html/testkz/include/_news.php on line 57
+[30-Mar-2011 10:04:54] PHP Parse error:  syntax error, unexpected '}' in /home/mh5sule/public_html/testkz/include/_news.php on line 57
+[30-Mar-2011 10:04:54] PHP Parse error:  syntax error, unexpected '}' in /home/mh5sule/public_html/testkz/include/_news.php on line 57
+[30-Mar-2011 10:05:04] PHP Parse error:  syntax error, unexpected '}' in /home/mh5sule/public_html/testkz/include/_news.php on line 57
+[31-Mar-2011 11:18:12] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[31-Mar-2011 11:18:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[05-Apr-2011 10:12:04] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[05-Apr-2011 10:12:05] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_news.php on line 82
+[05-Apr-2011 10:12:05] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_news.php on line 82
+[05-Apr-2011 10:12:05] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_news.php on line 82
+[05-Apr-2011 10:14:32] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[05-Apr-2011 10:14:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_news.php on line 82
+[05-Apr-2011 10:14:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_news.php on line 82
+[05-Apr-2011 10:14:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_news.php on line 82
+[05-Apr-2011 10:14:32] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[05-Apr-2011 10:14:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_news.php on line 82
+[05-Apr-2011 10:14:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_news.php on line 82
+[05-Apr-2011 10:14:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_news.php on line 82
+[05-Apr-2011 10:14:33] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[05-Apr-2011 10:14:33] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_news.php on line 82
+[05-Apr-2011 10:14:33] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_news.php on line 82
+[05-Apr-2011 10:14:33] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_news.php on line 82
+[05-Apr-2011 10:14:33] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[05-Apr-2011 10:14:33] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_news.php on line 82
+[05-Apr-2011 10:14:33] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_news.php on line 82
+[05-Apr-2011 10:14:33] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_news.php on line 82
+[20-Apr-2011 06:11:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:11:57] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_test.php:19) in /home/mh5sule/public_html/testkz/include/_test.php on line 55
+[20-Apr-2011 06:11:57] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:11:57] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:11:57] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:11:57] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:11:57] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:11:57] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:12:53] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:12:53] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_test.php:19) in /home/mh5sule/public_html/testkz/include/_test.php on line 55
+[20-Apr-2011 06:12:53] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:12:53] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:12:53] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:12:53] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:12:53] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:12:53] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_test.php:19) in /home/mh5sule/public_html/testkz/include/_test.php on line 55
+[20-Apr-2011 06:13:01] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:01] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:01] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:01] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:01] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:01] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:13:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_test.php:19) in /home/mh5sule/public_html/testkz/include/_test.php on line 55
+[20-Apr-2011 06:13:01] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:01] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:01] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:01] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:01] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:01] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:13:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:13:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_test.php:19) in /home/mh5sule/public_html/testkz/include/_test.php on line 55
+[20-Apr-2011 06:13:25] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:25] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:25] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:25] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:25] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:25] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:13:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_test.php:19) in /home/mh5sule/public_html/testkz/include/_test.php on line 55
+[20-Apr-2011 06:13:50] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:50] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:50] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:50] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:50] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:50] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:13:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_test.php:19) in /home/mh5sule/public_html/testkz/include/_test.php on line 55
+[20-Apr-2011 06:13:50] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:50] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:50] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:50] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:50] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:50] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:54] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_test.php:19) in /home/mh5sule/public_html/testkz/include/_test.php on line 55
+[20-Apr-2011 06:13:54] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:54] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:54] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:54] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:54] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:54] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:54] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_test.php:19) in /home/mh5sule/public_html/testkz/include/_test.php on line 55
+[20-Apr-2011 06:13:54] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:54] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:54] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:54] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:54] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:54] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:13:54] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:13:54] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:14:24] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:14:24] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_test.php:19) in /home/mh5sule/public_html/testkz/include/_test.php on line 55
+[20-Apr-2011 06:14:24] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:14:24] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:14:24] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:14:24] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:14:24] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:14:24] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:14:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:14:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_test.php:19) in /home/mh5sule/public_html/testkz/include/_test.php on line 55
+[20-Apr-2011 06:14:25] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:14:25] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:14:25] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:14:25] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:14:25] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:14:25] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:14:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:14:26] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_test.php:19) in /home/mh5sule/public_html/testkz/include/_test.php on line 55
+[20-Apr-2011 06:14:26] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:14:26] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:14:26] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:14:26] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:14:26] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:14:26] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:16:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_test.php:19) in /home/mh5sule/public_html/testkz/include/_test.php on line 55
+[20-Apr-2011 06:16:37] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:16:37] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:16:37] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:16:37] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:16:37] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:16:37] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:16:38] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:16:43] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_test.php:19) in /home/mh5sule/public_html/testkz/include/_test.php on line 55
+[20-Apr-2011 06:16:43] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:16:43] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:16:43] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:16:43] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:16:43] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:16:43] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:16:43] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:17:06] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:17:06] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_test.php:19) in /home/mh5sule/public_html/testkz/include/_test.php on line 55
+[20-Apr-2011 06:17:06] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:17:06] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:17:06] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:17:06] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:17:06] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:17:06] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:17:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:17:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_test.php:19) in /home/mh5sule/public_html/testkz/include/_test.php on line 55
+[20-Apr-2011 06:17:27] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:17:27] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:17:27] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:17:27] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:17:27] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:17:27] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:18:33] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:18:33] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_test.php:19) in /home/mh5sule/public_html/testkz/include/_test.php on line 55
+[20-Apr-2011 06:18:33] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:18:33] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:18:33] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:18:33] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:18:33] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:18:33] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:18:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:18:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_test.php:19) in /home/mh5sule/public_html/testkz/include/_test.php on line 55
+[20-Apr-2011 06:18:46] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:18:46] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:18:46] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:18:46] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:18:46] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:18:46] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:19:09] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:19:09] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_test.php:19) in /home/mh5sule/public_html/testkz/include/_test.php on line 55
+[20-Apr-2011 06:19:09] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:19:09] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:19:09] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:19:09] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:19:09] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:19:09] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:20:10] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:20:11] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_test.php:19) in /home/mh5sule/public_html/testkz/include/_test.php on line 55
+[20-Apr-2011 06:20:11] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:20:11] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:20:11] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:20:11] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:20:11] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:20:11] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:20:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:20:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_test.php:19) in /home/mh5sule/public_html/testkz/include/_test.php on line 55
+[20-Apr-2011 06:20:16] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:20:16] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:20:16] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:20:16] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:20:16] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:20:16] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:20:35] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:20:35] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_test.php:19) in /home/mh5sule/public_html/testkz/include/_test.php on line 55
+[20-Apr-2011 06:20:35] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:20:35] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:20:35] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:20:35] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:20:35] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:20:35] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:21:24] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_test.php:19) in /home/mh5sule/public_html/testkz/include/_test.php on line 55
+[20-Apr-2011 06:21:24] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:21:24] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:21:24] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:21:24] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:21:24] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:21:24] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:21:24] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:21:43] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_test.php:19) in /home/mh5sule/public_html/testkz/include/_test.php on line 55
+[20-Apr-2011 06:21:43] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:21:43] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:21:43] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:21:43] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:21:43] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:21:43] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:21:43] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_test.php:19) in /home/mh5sule/public_html/testkz/include/_test.php on line 55
+[20-Apr-2011 06:21:43] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:21:43] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:21:43] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:21:43] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:21:43] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:21:43] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:21:43] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:21:43] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:25:35] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:25:35] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_test.php:19) in /home/mh5sule/public_html/testkz/include/_test.php on line 55
+[20-Apr-2011 06:25:35] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:25:35] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:25:35] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:25:35] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:25:35] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:25:35] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:25:54] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_test.php:19) in /home/mh5sule/public_html/testkz/include/_test.php on line 55
+[20-Apr-2011 06:25:54] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:25:54] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:25:54] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:25:54] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:25:54] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:25:54] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:25:54] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:26:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:26:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_test.php:19) in /home/mh5sule/public_html/testkz/include/_test.php on line 55
+[20-Apr-2011 06:26:07] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:26:07] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:26:07] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:26:07] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:26:07] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:26:07] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:26:36] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:29:47] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:30:08] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:30:08] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_test.php:19) in /home/mh5sule/public_html/testkz/include/_test.php on line 55
+[20-Apr-2011 06:30:08] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:30:08] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:30:08] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:30:08] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:30:08] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:30:08] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:32:02] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[20-Apr-2011 06:32:02] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_test.php:19) in /home/mh5sule/public_html/testkz/include/_test.php on line 55
+[20-Apr-2011 06:32:02] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:32:02] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:32:02] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:32:02] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:32:02] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[20-Apr-2011 06:32:02] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[25-Apr-2011 09:00:03] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_test.php:19) in /home/mh5sule/public_html/testkz/include/_test.php on line 55
+[25-Apr-2011 09:00:03] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[25-Apr-2011 09:00:03] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[25-Apr-2011 09:00:03] PHP Notice:  Undefined variable: article in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[25-Apr-2011 09:00:03] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_test.php on line 80
+[25-Apr-2011 10:21:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[26-Apr-2011 07:16:18] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[04-May-2011 07:12:51] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/testkz/include/_ask_controller.php on line 30
+[04-May-2011 07:12:51] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/testkz/include/_ask_controller.php on line 30
+[04-May-2011 07:12:51] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/testkz/include/_ask_controller.php on line 30
+[04-May-2011 07:13:12] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/testkz/include/_ask_controller.php on line 30
+[04-May-2011 07:13:14] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/testkz/include/_ask_controller.php on line 30
+[04-May-2011 07:13:28] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/testkz/include/_ask_controller.php on line 30
+[04-May-2011 07:13:29] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/testkz/include/_ask_controller.php on line 30
+[04-May-2011 07:15:12] PHP Notice:  Undefined variable: result in /home/mh5sule/public_html/testkz/include/_ask_controller.php on line 30
+[04-May-2011 07:47:59] PHP Notice:  Undefined variable: que in /home/mh5sule/public_html/testkz/include/_ask_controller.php on line 111
+[04-May-2011 07:47:59] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/_ask_controller.php on line 111
+[04-May-2011 10:06:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[04-May-2011 10:38:13] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[04-May-2011 10:38:13] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46
+[09-May-2011 07:26:34] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/include/_news.php:5) in /home/mh5sule/public_html/testkz/include/_news.php on line 46

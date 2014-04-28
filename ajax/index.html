@@ -1,0 +1,20 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+    <script type='text/javascript' src='ajax.js'></script>
+	<script type='text/javascript' src='MakeRequest.js'></script>
+    <title>PHP AJAX Example</title>
+  </head>
+  <body>
+  <select name='test_access' onchange = 'MakeRequest(this.options[this.selectedIndex].value);' > 
+							<option value="1">Multiple choice</option> 
+							<option value="2">other</option> 
+						</select> 
+  
+  
+	  <div id='ResponseDiv'>
+  here we will change
+    </div>
+  </body>
+</html>

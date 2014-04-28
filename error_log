@@ -1,0 +1,685 @@
+[11-Nov-2010 05:46:17] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to MySQL server on '10.8.204.170' (4) in /home/mh5sule/public_html/zubbr/core/database.php on line 27
+[11-Nov-2010 08:41:04] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/zubbr/include/top.inc:35) in /home/mh5sule/public_html/zubbr/core/functions.php on line 46
+[11-Nov-2010 08:51:05] PHP Warning:  file_get_contents(/promo_landing.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/zubbr/include/top.inc on line 39
+[11-Nov-2010 08:51:05] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/zubbr/include/top.inc:39) in /home/mh5sule/public_html/zubbr/core/functions.php on line 46
+[11-Nov-2010 09:05:31] PHP Fatal error:  Call to undefined method PHPMailerLite::CharSet() in /home/mh5sule/public_html/zubbr/include/top.inc on line 36
+[11-Nov-2010 10:16:26] PHP Fatal error:  Call to undefined function  redirect_ro() in /home/mh5sule/public_html/zubbr/include/top.inc on line 16
+[12-Nov-2010 11:26:22] PHP Fatal error:  Cannot use string offset as an array in /home/mh5sule/public_html/zubbr/include/_jobpostings.inc on line 48
+[12-Nov-2010 11:29:29] PHP Notice:  Undefined index:  paid_views in /home/mh5sule/public_html/zubbr/core/session.php on line 28
+[12-Nov-2010 11:29:29] PHP Notice:  Undefined index:  free_views in /home/mh5sule/public_html/zubbr/core/session.php on line 29
+[12-Nov-2010 11:29:29] PHP Notice:  Undefined index:  none_views in /home/mh5sule/public_html/zubbr/core/session.php on line 30
+[12-Nov-2010 11:30:36] PHP Notice:  Undefined index:  paid_views in /home/mh5sule/public_html/zubbr/core/session.php on line 28
+[12-Nov-2010 11:30:36] PHP Notice:  Undefined index:  free_views in /home/mh5sule/public_html/zubbr/core/session.php on line 29
+[12-Nov-2010 11:30:36] PHP Notice:  Undefined index:  none_views in /home/mh5sule/public_html/zubbr/core/session.php on line 30
+[29-Nov-2010 06:14:17] PHP Notice:  Undefined index:  paid_views in /home/mh5sule/public_html/zubbr/core/session.php on line 28
+[29-Nov-2010 06:14:17] PHP Notice:  Undefined index:  free_views in /home/mh5sule/public_html/zubbr/core/session.php on line 29
+[29-Nov-2010 06:14:17] PHP Notice:  Undefined index:  none_views in /home/mh5sule/public_html/zubbr/core/session.php on line 30
+[29-Nov-2010 06:14:17] PHP Notice:  Undefined index:  page in /home/mh5sule/public_html/zubbr/index.php on line 12
+[02-Dec-2010 08:59:22] PHP Notice:  Undefined index:  page in /home/mh5sule/public_html/zubbr/index.php on line 12
+[02-Dec-2010 08:59:22] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/zubbr/index.php:12) in /home/mh5sule/public_html/zubbr/core/functions.php on line 53
+[02-Dec-2010 09:00:11] PHP Notice:  Undefined index:  page in /home/mh5sule/public_html/zubbr/index.php on line 12
+[02-Dec-2010 11:44:45] PHP Notice:  Undefined index:  paid_views in /home/mh5sule/public_html/zubbr/core/session.php on line 73
+[02-Dec-2010 11:44:45] PHP Notice:  Undefined index:  free_views in /home/mh5sule/public_html/zubbr/core/session.php on line 74
+[02-Dec-2010 11:44:45] PHP Notice:  Undefined index:  none_views in /home/mh5sule/public_html/zubbr/core/session.php on line 75
+[02-Dec-2010 11:44:45] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/zubbr/core/session.php:73) in /home/mh5sule/public_html/zubbr/core/functions.php on line 53
+[02-Dec-2010 11:48:10] PHP Notice:  Undefined index:  paid_views in /home/mh5sule/public_html/zubbr/core/session.php on line 28
+[02-Dec-2010 11:48:10] PHP Notice:  Undefined index:  free_views in /home/mh5sule/public_html/zubbr/core/session.php on line 29
+[02-Dec-2010 11:48:10] PHP Notice:  Undefined index:  none_views in /home/mh5sule/public_html/zubbr/core/session.php on line 30
+[02-Dec-2010 11:48:56] PHP Notice:  Undefined index:  paid_views in /home/mh5sule/public_html/zubbr/core/session.php on line 28
+[02-Dec-2010 11:48:56] PHP Notice:  Undefined index:  free_views in /home/mh5sule/public_html/zubbr/core/session.php on line 29
+[02-Dec-2010 11:48:56] PHP Notice:  Undefined index:  none_views in /home/mh5sule/public_html/zubbr/core/session.php on line 30
+[08-Dec-2010 02:26:25] PHP Warning:  require_once(/home/mh5sule/public_html/zubbr/core/initialize.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/zubbr/index.php on line 5
+[08-Dec-2010 02:26:25] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mh5sule/public_html/zubbr/core/initialize.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/zubbr/index.php on line 5
+[08-Dec-2010 04:16:23] PHP Warning:  require_once(/home/mh5sule/public_html/zubbr/core/initialize.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/zubbr/index.php on line 5
+[08-Dec-2010 04:16:23] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mh5sule/public_html/zubbr/core/initialize.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/zubbr/index.php on line 5
+[08-Dec-2010 04:16:24] PHP Warning:  require_once(/home/mh5sule/public_html/zubbr/core/initialize.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/zubbr/index.php on line 5
+[08-Dec-2010 04:16:24] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mh5sule/public_html/zubbr/core/initialize.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/zubbr/index.php on line 5
+[08-Dec-2010 04:26:00] PHP Warning:  require_once(/home/mh5sule/public_html/zubbr/core/initialize.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/zubbr/index.php on line 5
+[08-Dec-2010 04:26:00] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mh5sule/public_html/zubbr/core/initialize.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/zubbr/index.php on line 5
+[08-Dec-2010 04:26:04] PHP Warning:  require_once(/home/mh5sule/public_html/zubbr/core/initialize.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/zubbr/index.php on line 5
+[08-Dec-2010 04:26:04] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mh5sule/public_html/zubbr/core/initialize.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/zubbr/index.php on line 5
+[08-Dec-2010 04:26:09] PHP Warning:  require_once(/home/mh5sule/public_html/zubbr/core/initialize.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/zubbr/index.php on line 5
+[08-Dec-2010 04:26:09] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mh5sule/public_html/zubbr/core/initialize.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/zubbr/index.php on line 5
+[08-Dec-2010 04:26:21] PHP Warning:  require_once(/home/mh5sule/public_html/zubbr/core/initialize.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/zubbr/index.php on line 5
+[08-Dec-2010 04:26:21] PHP Fatal error:  require_once() [<a hr[08-Dec-2010 18:44:04] PHP Warning:  require_once(/home/mh5sule/public_html/zubbr/core/initialize.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/zubbr/index.php on line 5
+[08-Dec-2010 18:44:04] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mh5sule/public_html/zubbr/core/initialize.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/zubbr/index.php on line 5
+[08-Dec-2010 18:56:12] PHP Warning:  require_once(/home/mh5sule/public_html/zubbr/core/initialize.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/zubbr/index.php on line 5
+[08-Dec-2010 18:56:13] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mh5sule/public_html/zubbr/core/initialize.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/zubbr/index.php on line 5
+[08-Dec-2010 19:57:41] PHP Warning:  require_once(/home/mh5sule/public_html/zubbr/core/initialize.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/zubbr/index.php on line 5
+[08-Dec-2010 19:57:41] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mh5sule/public_html/zubbr/core/initialize.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/zubbr/index.php on line 5
+[08-Dec-2010 19:57:59] PHP Warning:  require_once(/home/mh5sule/public_html/zubbr/core/initialize.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/zubbr/index.php on line 5
+[08-Dec-2010 19:57:59] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mh5sule/public_html/zubbr/core/initialize.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/zubbr/index.php on line 5
+[08-Dec-2010 22:27:01] PHP Warning:  require_once(/home/mh5sule/public_html/zubbr/core/initialize.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/zubbr/index.php on line 5
+[08-Dec-2010 22:27:01] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mh5sule/public_html/zubbr/core/initialize.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/zubbr/index.php on line 5
+[08-Dec-2010 23:22:24] PHP Warning:  require_once(/home/mh5sule/public_html/zubbr/core/initialize.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/zubbr/index.php on line 5
+[08-Dec-2010 23:22:24] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mh5sule/public_html/zubbr/core/initialize.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/zubbr/index.php on line 5
+[09-Dec-2010 00:04:22] PHP Warning:  require_once(/home/mh5sule/public_html/zubbr/core/initialize.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/zubbr/index.php on line 5
+[09-Dec-2010 00:04:22] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mh5sule/public_html/zubbr/core/initialize.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/zubbr/index.php on line 5
+[09-Dec-2010 01:31:31] PHP Warning:  require_once(/home/mh5sule/public_html/zubbr/core/initialize.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/zubbr/index.php on line 5
+[09-Dec-2010 01:31:31] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mh5sule/public_html/zubbr/core/initialize.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/zubbr/index.php on line 5
+[09-Dec-2010 01:48:58] PHP Warning:  require_once(/home/mh5sule/public_html/zubbr/core/initialize.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/zubbr/index.php on line 5
+[09-Dec-2010 01:48:58] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mh5sule/public_html/zubbr/core/initialize.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/zubbr/index.php on line 5
+[09-Dec-2010 02:26:47] PHP Warning:  require_once(/home/mh5sule/public_html/zubbr/core/initialize.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/zubbr/index.php on line 5
+[09-Dec-2010 02:26:47] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mh5sule/public_html/zubbr/core/initialize.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/zubbr/index.php on line 5
+[09-Dec-2010 04:03:58] PHP Warning:  require_once(/home/mh5sule/public_html/zubbr/core/initialize.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/zubbr/index.php on line 5
+[09-Dec-2010 04:03:58] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mh5sule/public_html/zubbr/core/initialize.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/zubbr/index.php on line 5
+[09-Dec-2010 04:47:03] PHP Warning:  require_once(/home/mh5sule/public_html/zubbr/core/initialize.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/zubbr/index.php on line 5
+[09-Dec-2010 04:47:03] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mh5sule/public_html/zubbr/core/initialize.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/zubbr/index.php on line 5
+[09-Dec-2010 05:00:41] PHP Warning:  require_once(/home/mh5sule/public_html/zubbr/core/initialize.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/zubbr/index.php on line 5
+[09-Dec-2010 05:00:41] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mh5sule/public_html/zubbr/core/initialize.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/zubbr/index.php on line 5
+[09-Dec-2010 05:14:58] PHP Warning:  require_once(class.upload/class.upload.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/zubbr/core/initialize.php on line 52
+[09-Dec-2010 05:14:59] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'class.upload/class.upload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/zubbr/core/initialize.php on line 52
+[09-Dec-2010 05:16:11] PHP Parse error:  syntax error, unexpected $end in /home/mh5sule/public_html/zubbr/core/class.upload/class.upload.php on line 2620
+[20-Dec-2010 06:46:34] PHP Fatal error:  Call to undefined method News::count_all() in /home/mh5sule/public_html/zubbr/index.php on line 30
+[20-Dec-2010 06:46:43] PHP Fatal error:  Call to undefined method News::count_all() in /home/mh5sule/public_html/zubbr/index.php on line 30
+[28-Dec-2010 09:07:15] PHP Parse error:  syntax error, unexpected ';' in /home/mh5sule/public_html/zubbr/core/university.php on line 281
+[30-Dec-2010 12:22:51] PHP Warning:  require(/include/_news.inc) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/zubbr/index.php on line 45
+[30-Dec-2010 12:22:51] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/include/_news.inc' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/zubbr/index.php on line 45
+[30-Dec-2010 12:23:22] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/mh5sule/public_html/zubbr/core/test.php on line 90
+[19-Jan-2011 04:25:56] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 04:31:45] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 04:32:17] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 04:33:27] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 04:33:29] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 04:33:53] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 04:37:10] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 04:37:12] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 04:37:14] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 04:44:39] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 04:45:38] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 04:45:59] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 04:46:24] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 04:46:38] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 04:55:05] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 04:56:40] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 04:57:01] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 04:58:43] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 04:59:28] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 05:01:32] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 05:02:51] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 05:03:46] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 05:04:24] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 05:05:43] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 05:07:59] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 05:08:26] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 05:15:16] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 05:15:34] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 05:15:49] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 05:16:17] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 05:16:32] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 05:16:45] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 05:18:29] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 05:18:38] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 05:21:12] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 05:21:18] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 05:42:38] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 05:42:45] Unknown algorithm. Expected HMAC-SHA256
+[19-Jan-2011 06:01:11] PHP Parse error:  syntax error, unexpected '[' in /home/mh5sule/public_html/zubbr/facebook_reg.php on line 79
+[19-Jan-2011 06:01:12] PHP Parse error:  syntax error, unexpected '[' in /home/mh5sule/public_html/zubbr/facebook_reg.php on line 79
+[19-Jan-2011 06:01:20] PHP Parse error:  syntax error, unexpected '[' in /home/mh5sule/public_html/zubbr/facebook_reg.php on line 79
+[21-Jan-2011 09:32:14] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 297
+[21-Jan-2011 09:32:14] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 305
+[21-Jan-2011 09:32:15] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 297
+[21-Jan-2011 09:32:15] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 305
+[21-Jan-2011 09:32:35] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 297
+[21-Jan-2011 09:32:35] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 305
+[21-Jan-2011 09:32:37] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 297
+[21-Jan-2011 09:32:37] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 305
+[21-Jan-2011 09:34:59] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 297
+[21-Jan-2011 09:34:59] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 305
+[21-Jan-2011 09:35:02] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 297
+[21-Jan-2011 09:35:02] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 305
+[21-Jan-2011 09:35:03] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 297
+[21-Jan-2011 09:35:03] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 305
+[21-Jan-2011 09:35:05] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 297
+[21-Jan-2011 09:35:05] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 305
+[03-Feb-2011 05:48:35] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 308
+[03-Feb-2011 05:48:36] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 316
+[03-Feb-2011 05:49:28] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 308
+[03-Feb-2011 05:49:28] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 316
+[03-Feb-2011 11:24:44] PHP Fatal error:  Call to undefined method stdClass::save() in /home/mh5sule/public_html/zubbr/include/top.inc on line 38
+[04-Feb-2011 05:10:50] PHP Fatal error:  Cannot redeclare University::delete_by_id() in /home/mh5sule/public_html/zubbr/core/university.php on line 227
+[04-Feb-2011 05:10:50] PHP Fatal error:  Cannot redeclare University::delete_by_id() in /home/mh5sule/public_html/zubbr/core/university.php on line 227
+[04-Feb-2011 07:09:26] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:09:26] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:09:26] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:09:26] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:09:27] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:09:27] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:09:37] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:09:37] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:10:37] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:10:37] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:10:37] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:10:37] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:10:38] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:10:38] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:11:34] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:11:34] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:11:34] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:11:34] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:11:35] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:11:35] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:12:21] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:12:21] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:12:21] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:12:21] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:12:22] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:12:22] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:13:26] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:13:26] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:13:26] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:13:26] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:13:27] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:13:27] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:17:21] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:17:21] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:17:21] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:17:21] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:17:25] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:17:25] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:21:41] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:21:41] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:21:41] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:21:41] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:21:42] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:21:42] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:22:45] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:22:45] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:22:45] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:22:45] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:22:46] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:22:46] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:22:54] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:22:54] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:22:54] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:22:54] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:22:54] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:22:54] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:23:18] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:23:18] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:23:18] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:23:18] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:23:18] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:23:18] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:23:55] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:23:55] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:23:55] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:23:55] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:23:56] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:23:56] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:24:23] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:24:23] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:24:23] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:24:23] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:24:25] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:24:25] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:24:43] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:24:43] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:24:43] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:24:43] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:24:44] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:24:44] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:25:06] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:25:06] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:25:06] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:25:06] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:25:08] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:25:08] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:33:56] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:33:56] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:33:56] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:33:56] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:33:57] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:33:57] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:42:56] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:42:56] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[04-Feb-2011 07:43:02] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[04-Feb-2011 07:43:02] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:36:52] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:36:52] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:36:52] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:36:52] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:36:53] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:36:53] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:36:53] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:36:53] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:36:54] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:36:54] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:36:54] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:36:54] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:36:54] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:36:54] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:36:54] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:36:54] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:37:25] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:37:25] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:37:25] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:37:25] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:37:25] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:37:25] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:37:25] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:37:25] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:37:27] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:37:27] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:39:14] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:39:14] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:39:14] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:39:14] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:39:15] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:39:15] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:39:15] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:39:15] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:39:15] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:39:15] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:39:16] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:39:16] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:39:28] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:39:28] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:39:28] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:39:28] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:39:29] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:39:29] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:41:50] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:41:50] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:41:50] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:41:50] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:41:51] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:41:51] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:41:56] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:41:56] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:41:56] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:41:56] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:41:56] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:41:56] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:41:57] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:41:57] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:42:14] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:42:14] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:42:14] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:42:14] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:42:14] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:42:14] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:42:14] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:42:14] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:42:15] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:42:15] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:42:15] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:42:15] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:42:15] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:42:15] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:42:28] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:42:28] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:42:28] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:42:28] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:42:28] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:42:28] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:42:28] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:42:28] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:42:35] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:42:35] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:42:35] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:42:35] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:42:36] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:42:36] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:42:36] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:42:36] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:42:37] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:42:37] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:42:37] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:42:37] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:42:37] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:42:37] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:43:43] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:43:43] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:43:45] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:43:45] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:44:07] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:44:07] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:44:08] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:44:08] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:44:10] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:44:10] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:44:10] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:44:10] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:50:31] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:50:31] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:50:31] PHP Notice:  Undefined property: News::$university_id in /home/mh5sule/public_html/zubbr/include/_news.inc on line 24
+[10-Feb-2011 09:50:31] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/zubbr/core/functions.php:323) in /home/mh5sule/public_html/zubbr/core/functions.php on line 93
+[10-Feb-2011 09:50:32] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:50:32] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:50:33] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:50:33] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:51:20] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:51:20] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:51:20] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/zubbr/include/_news.inc on line 25
+[10-Feb-2011 09:51:20] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/zubbr/include/_news.inc on line 25
+[10-Feb-2011 09:51:20] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/zubbr/include/_news.inc on line 25
+[10-Feb-2011 09:51:23] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:51:23] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:51:23] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:51:23] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:52:00] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:52:00] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:52:03] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:52:03] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:52:21] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:52:21] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:52:23] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:52:23] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[10-Feb-2011 09:52:23] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[10-Feb-2011 09:52:23] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 08:29:34] PHP Fatal error:  Call to undefined method Test::get_passed_test_record() in /home/mh5sule/public_html/zubbr/core/session.php on line 71
+[11-Feb-2011 08:34:33] PHP Notice:  Undefined index:  passed_test_record_id in /home/mh5sule/public_html/zubbr/core/session.php on line 26
+[11-Feb-2011 08:34:33] PHP Notice:  Undefined index:  language in /home/mh5sule/public_html/zubbr/core/session.php on line 27
+[11-Feb-2011 08:34:33] PHP Notice:  Undefined index:  paid_views in /home/mh5sule/public_html/zubbr/core/session.php on line 28
+[11-Feb-2011 08:34:33] PHP Notice:  Undefined index:  free_views in /home/mh5sule/public_html/zubbr/core/session.php on line 29
+[11-Feb-2011 08:34:33] PHP Notice:  Undefined index:  none_views in /home/mh5sule/public_html/zubbr/core/session.php on line 30
+[11-Feb-2011 08:34:33] PHP Fatal error:  Cannot redeclare class Test in /home/mh5sule/public_html/zubbr/core/passed_test.php on line 4
+[11-Feb-2011 08:34:33] PHP Notice:  Undefined index:  passed_test_record_id in /home/mh5sule/public_html/zubbr/core/session.php on line 26
+[11-Feb-2011 08:34:33] PHP Notice:  Undefined index:  language in /home/mh5sule/public_html/zubbr/core/session.php on line 27
+[11-Feb-2011 08:34:33] PHP Notice:  Undefined index:  paid_views in /home/mh5sule/public_html/zubbr/core/session.php on line 28
+[11-Feb-2011 08:34:33] PHP Notice:  Undefined index:  free_views in /home/mh5sule/public_html/zubbr/core/session.php on line 29
+[11-Feb-2011 08:34:33] PHP Notice:  Undefined index:  none_views in /home/mh5sule/public_html/zubbr/core/session.php on line 30
+[11-Feb-2011 08:34:33] PHP Fatal error:  Cannot redeclare class Test in /home/mh5sule/public_html/zubbr/core/passed_test.php on line 4
+[11-Feb-2011 08:34:49] PHP Notice:  Undefined index:  passed_test_record_id in /home/mh5sule/public_html/zubbr/core/session.php on line 26
+[11-Feb-2011 08:34:49] PHP Notice:  Undefined index:  language in /home/mh5sule/public_html/zubbr/core/session.php on line 27
+[11-Feb-2011 08:34:49] PHP Notice:  Undefined index:  paid_views in /home/mh5sule/public_html/zubbr/core/session.php on line 28
+[11-Feb-2011 08:34:49] PHP Notice:  Undefined index:  free_views in /home/mh5sule/public_html/zubbr/core/session.php on line 29
+[11-Feb-2011 08:34:49] PHP Notice:  Undefined index:  none_views in /home/mh5sule/public_html/zubbr/core/session.php on line 30
+[11-Feb-2011 08:34:49] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 08:34:49] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 08:34:49] PHP Fatal error:  Call to undefined method Test::test_passed_count() in /home/mh5sule/public_html/zubbr/include/_test.inc on line 41
+[11-Feb-2011 08:34:53] PHP Notice:  Undefined index:  passed_test_record_id in /home/mh5sule/public_html/zubbr/core/session.php on line 26
+[11-Feb-2011 08:34:53] PHP Notice:  Undefined index:  language in /home/mh5sule/public_html/zubbr/core/session.php on line 27
+[11-Feb-2011 08:34:53] PHP Notice:  Undefined index:  paid_views in /home/mh5sule/public_html/zubbr/core/session.php on line 28
+[11-Feb-2011 08:34:53] PHP Notice:  Undefined index:  free_views in /home/mh5sule/public_html/zubbr/core/session.php on line 29
+[11-Feb-2011 08:34:53] PHP Notice:  Undefined index:  none_views in /home/mh5sule/public_html/zubbr/core/session.php on line 30
+[11-Feb-2011 08:34:53] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 08:34:53] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 08:36:17] PHP Notice:  Undefined index:  passed_test_record_id in /home/mh5sule/public_html/zubbr/core/session.php on line 26
+[11-Feb-2011 08:36:17] PHP Notice:  Undefined index:  language in /home/mh5sule/public_html/zubbr/core/session.php on line 27
+[11-Feb-2011 08:36:17] PHP Notice:  Undefined index:  paid_views in /home/mh5sule/public_html/zubbr/core/session.php on line 28
+[11-Feb-2011 08:36:17] PHP Notice:  Undefined index:  free_views in /home/mh5sule/public_html/zubbr/core/session.php on line 29
+[11-Feb-2011 08:36:17] PHP Notice:  Undefined index:  none_views in /home/mh5sule/public_html/zubbr/core/session.php on line 30
+[11-Feb-2011 08:36:17] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 08:36:17] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 08:36:17] PHP Notice:  Undefined index:  passed_test_record_id in /home/mh5sule/public_html/zubbr/core/session.php on line 26
+[11-Feb-2011 08:36:17] PHP Notice:  Undefined index:  language in /home/mh5sule/public_html/zubbr/core/session.php on line 27
+[11-Feb-2011 08:36:17] PHP Notice:  Undefined index:  paid_views in /home/mh5sule/public_html/zubbr/core/session.php on line 28
+[11-Feb-2011 08:36:17] PHP Notice:  Undefined index:  free_views in /home/mh5sule/public_html/zubbr/core/session.php on line 29
+[11-Feb-2011 08:36:17] PHP Notice:  Undefined index:  none_views in /home/mh5sule/public_html/zubbr/core/session.php on line 30
+[11-Feb-2011 08:36:17] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 08:36:17] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 08:37:06] PHP Notice:  Undefined index:  passed_test_record_id in /home/mh5sule/public_html/zubbr/core/session.php on line 26
+[11-Feb-2011 08:37:06] PHP Notice:  Undefined index:  language in /home/mh5sule/public_html/zubbr/core/session.php on line 27
+[11-Feb-2011 08:37:06] PHP Notice:  Undefined index:  paid_views in /home/mh5sule/public_html/zubbr/core/session.php on line 28
+[11-Feb-2011 08:37:06] PHP Notice:  Undefined index:  free_views in /home/mh5sule/public_html/zubbr/core/session.php on line 29
+[11-Feb-2011 08:37:06] PHP Notice:  Undefined index:  none_views in /home/mh5sule/public_html/zubbr/core/session.php on line 30
+[11-Feb-2011 08:37:06] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 08:37:06] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 08:39:53] PHP Notice:  Undefined index:  passed_test_record_id in /home/mh5sule/public_html/zubbr/core/session.php on line 26
+[11-Feb-2011 08:39:53] PHP Notice:  Undefined index:  language in /home/mh5sule/public_html/zubbr/core/session.php on line 27
+[11-Feb-2011 08:39:53] PHP Notice:  Undefined index:  paid_views in /home/mh5sule/public_html/zubbr/core/session.php on line 28
+[11-Feb-2011 08:39:53] PHP Notice:  Undefined index:  free_views in /home/mh5sule/public_html/zubbr/core/session.php on line 29
+[11-Feb-2011 08:39:53] PHP Notice:  Undefined index:  none_views in /home/mh5sule/public_html/zubbr/core/session.php on line 30
+[11-Feb-2011 08:39:53] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 08:39:53] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 08:42:26] PHP Notice:  Undefined index:  passed_test_record_id in /home/mh5sule/public_html/zubbr/core/session.php on line 26
+[11-Feb-2011 08:42:26] PHP Notice:  Undefined index:  language in /home/mh5sule/public_html/zubbr/core/session.php on line 27
+[11-Feb-2011 08:42:26] PHP Notice:  Undefined index:  paid_views in /home/mh5sule/public_html/zubbr/core/session.php on line 28
+[11-Feb-2011 08:42:26] PHP Notice:  Undefined index:  free_views in /home/mh5sule/public_html/zubbr/core/session.php on line 29
+[11-Feb-2011 08:42:26] PHP Notice:  Undefined index:  none_views in /home/mh5sule/public_html/zubbr/core/session.php on line 30
+[11-Feb-2011 08:42:26] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 08:42:26] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 08:44:17] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 08:44:17] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 08:45:09] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 08:45:09] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 08:52:12] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 08:52:12] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 08:52:14] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 08:52:14] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 08:53:45] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 08:53:45] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 08:53:46] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 08:53:46] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:02:55] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/mh5sule/public_html/zubbr/core/session.php on line 11
+[11-Feb-2011 09:03:13] PHP Notice:  Undefined index:  passed_test_records in /home/mh5sule/public_html/zubbr/core/session.php on line 26
+[11-Feb-2011 09:03:13] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:03:13] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:04:19] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:04:19] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:05:37] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:05:37] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:06:15] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:06:15] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:06:40] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:06:40] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:06:41] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:06:41] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:07:25] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:07:25] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:07:26] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:07:26] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:21:03] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:21:03] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:26:32] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:26:32] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:26:37] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:26:37] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:28:18] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:28:18] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:29:33] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:29:33] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:30:43] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:30:43] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:30:45] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:30:45] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:32:43] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:32:43] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:32:45] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:32:45] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:44:10] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:44:10] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:44:12] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:44:12] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:44:36] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:44:36] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:46:05] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:46:05] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:46:08] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:46:08] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:46:17] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:46:17] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:47:25] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:47:25] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:47:30] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:47:30] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:47:38] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:47:38] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:47:45] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:47:45] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:48:05] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:48:05] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:48:13] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:48:13] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:48:16] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:48:16] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:50:06] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:50:06] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:50:09] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:50:09] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:50:34] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:50:34] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:50:38] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:50:38] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:50:56] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:50:56] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:52:49] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:52:49] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:53:59] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:53:59] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:54:07] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:54:07] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:54:07] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:54:07] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:54:12] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:54:12] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:54:13] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:54:13] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:54:21] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:54:21] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:54:21] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:54:21] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:54:23] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:54:23] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:55:20] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:55:20] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:55:30] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:55:30] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 09:55:34] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 09:55:34] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 12:55:50] PHP Fatal error:  Call to undefined method Test::get_passed_test_record() in /home/mh5sule/public_html/zubbr/core/session.php on line 87
+[11-Feb-2011 12:55:51] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 12:55:51] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 12:55:57] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 12:55:57] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 13:02:12] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/zubbr/include/_news.inc on line 32
+[11-Feb-2011 13:02:12] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/zubbr/include/_news.inc on line 32
+[11-Feb-2011 13:02:12] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/zubbr/include/_news.inc on line 32
+[11-Feb-2011 13:03:58] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/zubbr/include/_news.inc on line 32
+[11-Feb-2011 13:03:58] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/zubbr/include/_news.inc on line 32
+[11-Feb-2011 13:03:58] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/zubbr/include/_news.inc on line 32
+[11-Feb-2011 13:08:59] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 13:08:59] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 13:09:03] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 13:09:03] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 13:13:12] PHP Fatal error:  Call to undefined method Test::get_passed_test_record() in /home/mh5sule/public_html/zubbr/core/session.php on line 87
+[11-Feb-2011 17:31:28] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 17:31:28] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 17:31:30] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 17:31:30] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 17:32:48] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 17:32:48] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 17:32:51] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 17:32:51] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 17:33:32] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 17:33:32] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 17:33:33] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 17:33:33] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 17:34:51] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 17:34:51] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 17:34:51] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 17:34:51] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[11-Feb-2011 17:34:53] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[11-Feb-2011 17:34:53] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[14-Feb-2011 10:43:21] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[14-Feb-2011 10:43:21] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[14-Feb-2011 10:43:43] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[14-Feb-2011 10:43:43] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[15-Feb-2011 05:14:31] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[15-Feb-2011 05:14:31] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[15-Feb-2011 05:14:31] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[15-Feb-2011 05:14:31] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[15-Feb-2011 05:14:32] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[15-Feb-2011 05:14:32] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[15-Feb-2011 05:15:18] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[15-Feb-2011 05:15:18] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[15-Feb-2011 05:15:19] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[15-Feb-2011 05:15:19] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[15-Feb-2011 05:15:19] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[15-Feb-2011 05:15:19] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[15-Feb-2011 05:15:19] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[15-Feb-2011 05:15:19] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[15-Feb-2011 05:15:20] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[15-Feb-2011 05:15:20] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[15-Feb-2011 05:15:29] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[15-Feb-2011 05:15:29] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[15-Feb-2011 05:15:29] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[15-Feb-2011 05:15:29] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[15-Feb-2011 05:15:31] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[15-Feb-2011 05:15:31] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[15-Feb-2011 05:15:31] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[15-Feb-2011 05:15:31] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[15-Feb-2011 05:15:35] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[15-Feb-2011 05:15:35] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[15-Feb-2011 05:15:35] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[15-Feb-2011 05:15:35] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[15-Feb-2011 05:15:35] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[15-Feb-2011 05:15:35] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[15-Feb-2011 05:15:36] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[15-Feb-2011 05:15:36] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[15-Feb-2011 05:35:30] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[15-Feb-2011 05:35:30] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[15-Feb-2011 05:35:32] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/zubbr/core/functions.php on line 323
+[15-Feb-2011 05:35:32] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/zubbr/core/functions.php on line 331
+[18-Feb-2011 05:33:34] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/testkz/core/functions.php on line 323
+[18-Feb-2011 05:33:34] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/testkz/core/functions.php on line 331
+[18-Feb-2011 05:33:35] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/testkz/core/functions.php on line 323
+[18-Feb-2011 05:33:35] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/testkz/core/functions.php on line 331
+[18-Feb-2011 05:33:35] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/testkz/core/functions.php on line 323
+[18-Feb-2011 05:33:35] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/testkz/core/functions.php on line 331
+[18-Feb-2011 05:33:36] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/testkz/core/functions.php on line 323
+[18-Feb-2011 05:33:36] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/testkz/core/functions.php on line 331
+[18-Feb-2011 05:33:36] PHP Notice:  Undefined index:  fbs_153185531368569 in /home/mh5sule/public_html/testkz/core/functions.php on line 323
+[18-Feb-2011 05:33:36] PHP Notice:  Undefined index:  sig in /home/mh5sule/public_html/testkz/core/functions.php on line 331
+[01-Apr-2011 07:35:35] PHP Warning:  require_once(class.vk/vk.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/zubbr/core/initialize.php on line 61
+[01-Apr-2011 07:35:35] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'class.vk/vk.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/zubbr/core/initialize.php on line 61
+[01-Apr-2011 07:35:36] PHP Warning:  require_once(class.vk/vk.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/zubbr/core/initialize.php on line 61
+[01-Apr-2011 07:35:36] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'class.vk/vk.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/zubbr/core/initialize.php on line 61
+[04-Apr-2011 07:45:37] PHP Notice:  Undefined index:  vk_app_2225351 in /home/mh5sule/public_html/zubbr/core/functions.php on line 367
+[04-Apr-2011 07:45:37] PHP Notice:  Undefined index:  mrc in /home/mh5sule/public_html/zubbr/include/top.inc on line 279
+[04-Apr-2011 07:45:37] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/zubbr/include/info_block.inc on line 2
+[04-Apr-2011 07:45:41] PHP Notice:  Undefined index:  vk_app_2225351 in /home/mh5sule/public_html/zubbr/core/functions.php on line 367
+[04-Apr-2011 07:45:41] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/zubbr/include/info_block.inc on line 2
+[04-Apr-2011 07:45:41] PHP Notice:  Undefined index:  vk_app_2225351 in /home/mh5sule/public_html/zubbr/core/functions.php on line 367
+[04-Apr-2011 07:45:41] PHP Notice:  Undefined index:  session_key in /home/mh5sule/public_html/zubbr/include/top.inc on line 281
+[04-Apr-2011 07:45:41] PHP Notice:  Undefined index:  session_key in /home/mh5sule/public_html/zubbr/include/top.inc on line 282
+[04-Apr-2011 07:45:41] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/mh5sule/public_html/zubbr/include/top.inc on line 282
+[04-Apr-2011 07:45:41] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/zubbr/include/info_block.inc on line 2
+[04-Apr-2011 07:45:44] PHP Notice:  Undefined index:  vk_app_2225351 in /home/mh5sule/public_html/zubbr/core/functions.php on line 367
+[04-Apr-2011 07:45:45] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/zubbr/include/info_block.inc on line 2
+[04-Apr-2011 07:45:45] PHP Notice:  Undefined index:  vk_app_2225351 in /home/mh5sule/public_html/zubbr/core/functions.php on line 367
+[04-Apr-2011 07:45:45] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/zubbr/include/info_block.inc on line 2
+[04-Apr-2011 07:45:48] PHP Notice:  Undefined index:  vk_app_2225351 in /home/mh5sule/public_html/zubbr/core/functions.php on line 367
+[04-Apr-2011 07:45:48] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/zubbr/include/info_block.inc on line 2
+[13-Apr-2011 09:58:55] PHP Notice:  Undefined index:  session_key in /home/mh5sule/public_html/zubbr/include/top.inc on line 281
+[13-Apr-2011 09:58:57] PHP Notice:  Undefined index:  session_key in /home/mh5sule/public_html/zubbr/include/top.inc on line 282
+[13-Apr-2011 09:58:57] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/mh5sule/public_html/zubbr/include/top.inc on line 282
+[13-Apr-2011 09:58:57] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/zubbr/include/info_block.inc on line 2
+[13-Apr-2011 09:59:09] PHP Notice:  Undefined index:  session_key in /home/mh5sule/public_html/zubbr/include/top.inc on line 281
+[13-Apr-2011 09:59:09] PHP Notice:  Undefined index:  session_key in /home/mh5sule/public_html/zubbr/include/top.inc on line 282
+[13-Apr-2011 09:59:09] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/mh5sule/public_html/zubbr/include/top.inc on line 282
+[13-Apr-2011 09:59:09] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/zubbr/include/info_block.inc on line 2
+[22-Apr-2011 22:14:47] PHP Fatal error:  Call to a member function is_logged_in() on a non-object in /home/mh5sule/public_html/zubbr/include/top.inc on line 7
+[22-Apr-2011 22:14:47] PHP Fatal error:  Call to a member function is_logged_in() on a non-object in /home/mh5sule/public_html/zubbr/include/top.inc on line 7
+[22-Apr-2011 22:18:14] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: open(/tmp/sess_2619e9a96c6c4dd126f1117732998a61, O_RDWR) failed: Read-only file system (30) in /home/mh5sule/public_html/zubbr/core/session.php on line 35
+[22-Apr-2011 22:18:14] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mh5sule/public_html/zubbr/core/session.php:35) in /home/mh5sule/public_html/zubbr/core/session.php on line 35
+[22-Apr-2011 22:18:17] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/zubbr/include/info_block.inc on line 2
+[22-Apr-2011 22:18:17] PHP Warning:  Unknown: open(/tmp/sess_2619e9a96c6c4dd126f1117732998a61, O_RDWR) failed: Read-only file system (30) in Unknown on line 0
+[22-Apr-2011 22:18:17] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[22-Apr-2011 22:18:21] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: open(/tmp/sess_2619e9a96c6c4dd126f1117732998a61, O_RDWR) failed: Read-only file system (30) in /home/mh5sule/public_html/zubbr/core/session.php on line 35
+[22-Apr-2011 22:18:21] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/mh5sule/public_html/zubbr/core/session.php:35) in /home/mh5sule/public_html/zubbr/core/session.php on line 35
+[22-Apr-2011 22:18:22] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/zubbr/include/info_block.inc on line 2
+[22-Apr-2011 22:18:22] PHP Warning:  Unknown: open(/tmp/sess_2619e9a96c6c4dd126f1117732998a61, O_RDWR) failed: Read-only file system (30) in Unknown on line 0
+[22-Apr-2011 22:18:22] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[01-Jun-2011 18:55:08] PHP Notice:  Undefined index:  session_key in /home/mh5sule/public_html/zubbr/include/top.inc on line 281
+[01-Jun-2011 18:55:08] PHP Notice:  Undefined index:  session_key in /home/mh5sule/public_html/zubbr/include/top.inc on line 282
+[01-Jun-2011 18:55:08] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/mh5sule/public_html/zubbr/include/top.inc on line 282
+[01-Jun-2011 18:55:11] PHP Notice:  Undefined index:  session_key in /home/mh5sule/public_html/zubbr/include/top.inc on line 281
+[01-Jun-2011 18:55:11] PHP Notice:  Undefined index:  session_key in /home/mh5sule/public_html/zubbr/include/top.inc on line 282
+[01-Jun-2011 18:55:12] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/mh5sule/public_html/zubbr/include/top.inc on line 282
+[01-Jun-2011 18:55:14] PHP Notice:  Undefined index:  session_key in /home/mh5sule/public_html/zubbr/include/top.inc on line 281
+[01-Jun-2011 18:55:14] PHP Notice:  Undefined index:  session_key in /home/mh5sule/public_html/zubbr/include/top.inc on line 282
+[01-Jun-2011 18:55:15] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/mh5sule/public_html/zubbr/include/top.inc on line 282
+[01-Aug-2011 09:14:45] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/mh5sule/public_html/zubbr/include/top.inc on line 182
+[20-Oct-2011 15:02:58] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/mh5sule/public_html/zubbr/include/top.inc on line 282
+[20-Oct-2011 16:23:39] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/mh5sule/public_html/zubbr/include/top.inc on line 282
+[22-Dec-2011 11:03:39] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/mh5sule/public_html/zubbr/include/top.inc on line 282
+[07-Feb-2012 09:56:19] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/mh5sule/public_html/zubbr/include/top.inc on line 282
+[03-Sep-2012 23:01:34] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/mh5sule/public_html/zubbr/include/top.inc on line 282
+[16-Oct-2013 07:43:25] PHP Warning:  require_once(/home/mh5sule/public_html/core/initialize.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/zubbr/index.php on line 2
+[16-Oct-2013 07:43:25] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mh5sule/public_html/core/initialize.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/zubbr/index.php on line 2
+[23-Apr-2014 08:40:40] PHP Warning:  require_once(/home/mh5sule/public_html/core/initialize.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/zubbr/index.php on line 2
+[23-Apr-2014 08:40:40] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mh5sule/public_html/core/initialize.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/zubbr/index.php on line 2

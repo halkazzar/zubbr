@@ -1,0 +1,8 @@
+[02-Dec-2010 08:58:32] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/zubbr/include/top.inc:125) in /home/mh5sule/public_html/zubbr/core/functions.php on line 53
+[02-Dec-2010 08:59:52] PHP Fatal error:  Class 'User' not found in /home/mh5sule/public_html/zubbr/pages/users/passremind/index.php on line 26
+[02-Dec-2010 11:36:14] PHP Notice:  Undefined variable: sub_navigation in /home/mh5sule/public_html/zubbr/include/navigation.inc on line 4
+[02-Dec-2010 11:36:14] PHP Notice:  Undefined variable: sub_navigation in /home/mh5sule/public_html/zubbr/include/navigation.inc on line 5
+[02-Dec-2010 11:36:14] PHP Notice:  Undefined variable: sub_navigation in /home/mh5sule/public_html/zubbr/include/navigation.inc on line 6
+[02-Dec-2010 11:36:14] PHP Notice:  Undefined variable: sub_navigation in /home/mh5sule/public_html/zubbr/include/navigation.inc on line 7
+[02-Dec-2010 11:36:14] PHP Notice:  Undefined variable: sub_navigation in /home/mh5sule/public_html/zubbr/include/navigation.inc on line 8
+[02-Dec-2010 11:36:14] PHP Notice:  Undefined variable: sub_navigation in /home/mh5sule/public_html/zubbr/include/navigation.inc on line 12

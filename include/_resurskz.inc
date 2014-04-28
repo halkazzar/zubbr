@@ -1,0 +1,1 @@
+<a href='http://www.resurs.kz/' target='_blank'><img src='http://www.resurs.kz/images/res_ban_88_31_1.gif' border='0' width='88' height='31' alt='Resurs.kz: сайты Казахстана и раскрутка сайта'></a>

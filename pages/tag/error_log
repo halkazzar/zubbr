@@ -1,0 +1,75 @@
+[30-Mar-2011 08:55:20] PHP Notice:  Undefined index:  vk_app_2225351 in /home/mh5sule/public_html/testkz/core/functions.php on line 367
+[30-Mar-2011 08:55:20] PHP Notice:  Undefined index:  mrc in /home/mh5sule/public_html/testkz/include/top.inc on line 279
+[30-Mar-2011 08:55:20] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[31-Mar-2011 11:18:10] PHP Notice:  Undefined index:  vk_app_2225351 in /home/mh5sule/public_html/testkz/core/functions.php on line 367
+[31-Mar-2011 11:18:10] PHP Notice:  Undefined index:  session_key in /home/mh5sule/public_html/testkz/include/top.inc on line 281
+[31-Mar-2011 11:18:10] PHP Notice:  Undefined index:  session_key in /home/mh5sule/public_html/testkz/include/top.inc on line 282
+[31-Mar-2011 11:18:11] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/mh5sule/public_html/testkz/include/top.inc on line 282
+[31-Mar-2011 11:18:11] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[31-Mar-2011 11:18:24] PHP Notice:  Undefined index:  vk_app_2225351 in /home/mh5sule/public_html/testkz/core/functions.php on line 367
+[31-Mar-2011 11:18:24] PHP Notice:  Undefined index:  session_key in /home/mh5sule/public_html/testkz/include/top.inc on line 281
+[31-Mar-2011 11:18:24] PHP Notice:  Undefined index:  session_key in /home/mh5sule/public_html/testkz/include/top.inc on line 282
+[31-Mar-2011 11:18:24] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/mh5sule/public_html/testkz/include/top.inc on line 282
+[31-Mar-2011 11:18:24] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[05-Apr-2011 10:12:00] PHP Notice:  Undefined index:  vk_app_2225351 in /home/mh5sule/public_html/testkz/core/functions.php on line 367
+[05-Apr-2011 10:12:00] PHP Notice:  Undefined index:  mrc in /home/mh5sule/public_html/testkz/include/top.inc on line 279
+[05-Apr-2011 10:12:00] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[20-Apr-2011 06:11:53] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[20-Apr-2011 06:11:53] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/__questions.inc on line 64
+[20-Apr-2011 06:11:53] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/__questions.inc on line 79
+[20-Apr-2011 06:12:51] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[20-Apr-2011 06:12:51] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/__questions.inc on line 79
+[20-Apr-2011 06:13:21] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[20-Apr-2011 06:13:21] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/__questions.inc on line 79
+[20-Apr-2011 06:14:22] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[20-Apr-2011 06:14:22] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/__questions.inc on line 65
+[20-Apr-2011 06:14:22] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/__questions.inc on line 80
+[20-Apr-2011 06:15:55] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[20-Apr-2011 06:16:42] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[20-Apr-2011 06:16:42] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/__questions.inc on line 68
+[20-Apr-2011 06:16:42] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/__questions.inc on line 83
+[20-Apr-2011 06:17:05] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[20-Apr-2011 06:17:05] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/__questions.inc on line 69
+[20-Apr-2011 06:17:05] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/__questions.inc on line 84
+[20-Apr-2011 06:17:25] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[20-Apr-2011 06:17:25] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/__questions.inc on line 70
+[20-Apr-2011 06:17:25] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/__questions.inc on line 85
+[20-Apr-2011 06:18:32] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[20-Apr-2011 06:18:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/__questions.inc on line 70
+[20-Apr-2011 06:18:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/__questions.inc on line 85
+[20-Apr-2011 06:18:45] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[20-Apr-2011 06:18:45] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/__questions.inc on line 70
+[20-Apr-2011 06:18:45] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/__questions.inc on line 85
+[20-Apr-2011 06:19:05] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[20-Apr-2011 06:20:08] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[20-Apr-2011 06:20:15] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[20-Apr-2011 06:20:15] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/__questions.inc on line 70
+[20-Apr-2011 06:20:15] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/__questions.inc on line 85
+[20-Apr-2011 06:20:34] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[20-Apr-2011 06:20:34] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/__questions.inc on line 70
+[20-Apr-2011 06:20:34] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/__questions.inc on line 85
+[20-Apr-2011 06:21:22] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[20-Apr-2011 06:21:22] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/__questions.inc on line 65
+[20-Apr-2011 06:21:22] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/__questions.inc on line 80
+[20-Apr-2011 06:25:03] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[20-Apr-2011 06:25:11] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[20-Apr-2011 06:25:51] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[20-Apr-2011 06:26:00] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[20-Apr-2011 06:26:13] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[20-Apr-2011 06:26:27] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[20-Apr-2011 06:29:26] PHP Parse error:  syntax error, unexpected $end in /home/mh5sule/public_html/testkz/pages/tag/tagfilter.php on line 210
+[20-Apr-2011 06:29:46] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[20-Apr-2011 06:30:06] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[20-Apr-2011 06:30:06] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/__questions.inc on line 65
+[20-Apr-2011 06:30:06] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/__questions.inc on line 80
+[20-Apr-2011 06:30:29] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[20-Apr-2011 06:32:01] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[20-Apr-2011 06:32:01] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/__questions.inc on line 65
+[20-Apr-2011 06:32:01] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/__questions.inc on line 80
+[20-Apr-2011 06:43:38] PHP Parse error:  syntax error, unexpected $end in /home/mh5sule/public_html/testkz/pages/tag/tagfilter.php on line 212
+[25-Apr-2011 09:00:02] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[25-Apr-2011 10:21:23] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[26-Apr-2011 07:16:16] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[04-May-2011 10:05:17] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[04-May-2011 10:06:12] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[09-May-2011 07:26:32] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2

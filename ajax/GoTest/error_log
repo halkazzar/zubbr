@@ -1,0 +1,117 @@
+[18-Feb-2011 05:58:11] PHP Notice:  Undefined variable: question_id in /home/mh5sule/public_html/testkz/ajax/GoTest/index.php on line 23
+[18-Feb-2011 05:58:11] PHP Notice:  Undefined variable: question_id in /home/mh5sule/public_html/testkz/ajax/GoTest/index.php on line 74
+[18-Feb-2011 05:58:12] PHP Notice:  Undefined variable: prev_cur_q_answered_id in /home/mh5sule/public_html/testkz/ajax/GoTest/index.php on line 128
+[18-Feb-2011 05:58:12] PHP Notice:  Undefined variable: prev_cur_q_answered_id in /home/mh5sule/public_html/testkz/ajax/GoTest/index.php on line 128
+[18-Feb-2011 05:58:12] PHP Notice:  Undefined variable: prev_cur_q_answered_id in /home/mh5sule/public_html/testkz/ajax/GoTest/index.php on line 128
+[18-Feb-2011 05:58:12] PHP Notice:  Undefined variable: prev_cur_q_answered_id in /home/mh5sule/public_html/testkz/ajax/GoTest/index.php on line 128
+[18-Feb-2011 05:58:12] PHP Notice:  Undefined variable: prev_cur_q_answered_id in /home/mh5sule/public_html/testkz/ajax/GoTest/index.php on line 128
+[18-Feb-2011 06:00:06] PHP Notice:  Undefined variable: prev_cur_q_answered_id in /home/mh5sule/public_html/testkz/ajax/GoTest/index.php on line 131
+[18-Feb-2011 06:00:06] PHP Notice:  Undefined variable: prev_cur_q_answered_id in /home/mh5sule/public_html/testkz/ajax/GoTest/index.php on line 131
+[18-Feb-2011 06:00:06] PHP Notice:  Undefined variable: prev_cur_q_answered_id in /home/mh5sule/public_html/testkz/ajax/GoTest/index.php on line 131
+[18-Feb-2011 06:00:06] PHP Notice:  Undefined variable: prev_cur_q_answered_id in /home/mh5sule/public_html/testkz/ajax/GoTest/index.php on line 131
+[18-Feb-2011 06:00:06] PHP Notice:  Undefined variable: prev_cur_q_answered_id in /home/mh5sule/public_html/testkz/ajax/GoTest/index.php on line 131
+[18-Feb-2011 06:00:15] PHP Notice:  Undefined variable: prev_cur_q_answered_id in /home/mh5sule/public_html/testkz/ajax/GoTest/index.php on line 131
+[18-Feb-2011 06:00:15] PHP Notice:  Undefined variable: prev_cur_q_answered_id in /home/mh5sule/public_html/testkz/ajax/GoTest/index.php on line 131
+[18-Feb-2011 06:00:15] PHP Notice:  Undefined variable: prev_cur_q_answered_id in /home/mh5sule/public_html/testkz/ajax/GoTest/index.php on line 131
+[18-Feb-2011 06:00:15] PHP Notice:  Undefined variable: prev_cur_q_answered_id in /home/mh5sule/public_html/testkz/ajax/GoTest/index.php on line 131
+[18-Feb-2011 06:00:15] PHP Notice:  Undefined variable: prev_cur_q_answered_id in /home/mh5sule/public_html/testkz/ajax/GoTest/index.php on line 131
+[18-Feb-2011 06:00:26] PHP Notice:  Undefined variable: prev_cur_q_answered_id in /home/mh5sule/public_html/testkz/ajax/GoTest/index.php on line 131
+[18-Feb-2011 06:00:26] PHP Notice:  Undefined variable: prev_cur_q_answered_id in /home/mh5sule/public_html/testkz/ajax/GoTest/index.php on line 131
+[18-Feb-2011 06:00:26] PHP Notice:  Undefined variable: prev_cur_q_answered_id in /home/mh5sule/public_html/testkz/ajax/GoTest/index.php on line 131
+[18-Feb-2011 06:00:26] PHP Notice:  Undefined variable: prev_cur_q_answered_id in /home/mh5sule/public_html/testkz/ajax/GoTest/index.php on line 131
+[18-Feb-2011 06:00:26] PHP Notice:  Undefined variable: prev_cur_q_answered_id in /home/mh5sule/public_html/testkz/ajax/GoTest/index.php on line 131
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55
+[18-Feb-2011 06:02:32] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/include/finish_test.inc on line 55

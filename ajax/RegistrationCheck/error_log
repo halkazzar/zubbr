@@ -1,0 +1,37 @@
+[26-Jan-2010 18:02:01] PHP Parse error:  syntax error, unexpected T_CONCAT_EQUAL in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 28
+[26-Jan-2010 18:02:15] PHP Parse error:  syntax error, unexpected T_CONCAT_EQUAL in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 28
+[26-Jan-2010 18:02:30] PHP Parse error:  syntax error, unexpected T_CONCAT_EQUAL in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 28
+[26-Jan-2010 18:03:55] PHP Parse error:  syntax error, unexpected T_CONCAT_EQUAL in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 28
+[26-Jan-2010 18:03:56] PHP Parse error:  syntax error, unexpected T_CONCAT_EQUAL in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 28
+[26-Jan-2010 18:03:56] PHP Parse error:  syntax error, unexpected T_CONCAT_EQUAL in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 28
+[26-Jan-2010 18:05:35] PHP Parse error:  syntax error, unexpected T_CONCAT_EQUAL in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 28
+[27-Jan-2010 08:05:23] PHP Parse error:  syntax error, unexpected T_CONCAT_EQUAL in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 28
+[27-Jan-2010 08:47:28] PHP Parse error:  syntax error, unexpected T_CONCAT_EQUAL in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 28
+[27-Jan-2010 09:07:13] PHP Parse error:  syntax error, unexpected T_CONCAT_EQUAL in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 28
+[27-Jan-2010 09:07:35] PHP Parse error:  syntax error, unexpected '=' in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 28
+[27-Jan-2010 09:08:40] PHP Fatal error:  Call to undefined function  processregistration() in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 62
+[02-Apr-2010 17:51:15] PHP Parse error:  syntax error, unexpected T_ELSE in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 78
+[02-Apr-2010 17:51:20] PHP Parse error:  syntax error, unexpected T_ELSE in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 78
+[02-Apr-2010 17:51:22] PHP Parse error:  syntax error, unexpected T_ELSE in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 78
+[02-Apr-2010 17:51:27] PHP Parse error:  syntax error, unexpected T_ELSE in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 78
+[02-Apr-2010 17:51:31] PHP Parse error:  syntax error, unexpected T_ELSE in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 78
+[02-Apr-2010 17:52:19] PHP Parse error:  syntax error, unexpected T_ELSE in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 78
+[02-Apr-2010 17:52:25] PHP Parse error:  syntax error, unexpected T_ELSE in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 78
+[02-Apr-2010 17:56:30] PHP Parse error:  syntax error, unexpected T_ELSE in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 78
+[02-Apr-2010 17:56:31] PHP Parse error:  syntax error, unexpected T_ELSE in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 78
+[02-Apr-2010 17:58:43] PHP Parse error:  syntax error, unexpected T_ELSE in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 78
+[02-Apr-2010 17:58:47] PHP Parse error:  syntax error, unexpected T_ELSE in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 78
+[02-Apr-2010 17:58:53] PHP Parse error:  syntax error, unexpected T_ELSE in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 78
+[02-Apr-2010 17:58:57] PHP Parse error:  syntax error, unexpected T_ELSE in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 78
+[02-Apr-2010 17:59:04] PHP Parse error:  syntax error, unexpected T_ELSE in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 78
+[02-Apr-2010 17:59:06] PHP Parse error:  syntax error, unexpected T_ELSE in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 78
+[02-Apr-2010 17:59:07] PHP Parse error:  syntax error, unexpected T_ELSE in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 78
+[02-Apr-2010 17:59:11] PHP Parse error:  syntax error, unexpected T_ELSE in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 78
+[02-Apr-2010 17:59:18] PHP Parse error:  syntax error, unexpected T_ELSE in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 78
+[02-Apr-2010 17:59:30] PHP Parse error:  syntax error, unexpected T_ELSE in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 78
+[02-Apr-2010 18:01:13] PHP Parse error:  syntax error, unexpected T_ELSE in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 78
+[02-Apr-2010 18:02:38] PHP Parse error:  syntax error, unexpected T_ELSE in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 78
+[02-Apr-2010 18:02:43] PHP Parse error:  syntax error, unexpected T_ELSE in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 78
+[02-Apr-2010 18:05:10] PHP Parse error:  syntax error, unexpected T_ELSE in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 78
+[02-Apr-2010 18:10:36] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php:2) in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/RegistrationCheck/index.php on line 6
+[02-Apr-2010 18:10:36] PHP Warning:  Unknown: Your script possibly relies on a session side-effect which existed until PHP 4.2.3. Please be advised that the session extension does not consider global variables as a source of data, unless register_globals is enabled. You can disable this functionality and this warning by setting session.bug_compat_42 or session.bug_compat_warn to off, respectively in Unknown on line 0

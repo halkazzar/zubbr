@@ -1,0 +1,271 @@
+.main#main-two-columns-reg {background: url('img/main-two-columns-reg.gif') repeat-y right top;}
+.main#main-two-columns-reg #main-left-reg {width: 500px;}
+.main#main-two-columns-reg .sidebar-reg {width: 431px;}
+
+
+button{border:0; margin:0; padding:0;}
+.spacer{clear:both; height:1px;}
+
+/* ----------- My Form ----------- */
+.myform{
+    margin:0 auto;
+    margin-top: 20px;
+    width:450px;
+    padding:14px;
+}
+.myform#ask{
+    margin-top:11px;
+    width:585px;
+    padding: 0;  
+
+}
+
+
+/* ----------- basic ----------- */
+input:focus, textarea:focus {
+    border: 1px solid black ;
+}
+
+#basic, #promo_div, #invite, #remind_pass, .reg_window{
+    background: #FAFAFA;
+    border:2px solid #cdc9c9;
+}
+#basic h1, #answer h1, #remind_pass h1, .reg_window h1 {
+    font-size:16px;
+    font-weight:bold;
+    margin-bottom:8px;
+}
+#basic p, #answer p, #remind_pass p, .reg_window p{
+    font-size:11px;
+    color:#666666;
+    margin-bottom:20px;
+    border-bottom:solid 1px #cdc9c9;
+    padding-bottom:10px;
+}    
+#remind_pass p{
+    border-bottom:none;
+}
+#basic label, #ask label, .reg_window label {
+    display:block;
+    font-weight:bold;
+    text-align:right;
+    width:150px;
+    float:left;
+}
+
+
+#ask label{
+    text-align: left;
+
+}
+#promo label, #invite label, #remind_pass label{
+    width:192px;
+    margin-right: 18px;
+    font-size: 16px;
+    padding-top: 2px;
+}
+
+#advanced label, #advanced span{
+    width:auto;
+    margin-right: 5px;
+    margin-left: 15px;
+    font-size: 13px;
+    padding-top: 2px;
+    font-weight: normal;
+}
+
+#advanced span{
+    border-bottom: 1px dotted;
+}
+
+
+#basic .small, .reg_window .small{
+    color:#666666;
+    display:block;
+    font-size:11px;
+    font-weight:normal;
+    text-align:right;
+    width:150px;
+}
+
+#basic .box , .reg_window .box{
+    display:block;
+    width:16px;
+    float:right;
+    padding: 5px;
+}
+
+#basic input.text:focus, textarea:focus, select:focus {background: #FFFFF5;}
+.reg_window input.text:focus, textarea:focus, select:focus {background: #FFFFF5;}
+
+#ask textarea, #ask input, #basic input, #answer input, #answer textarea, #basic input.short, #basic input.medium, #basic input.long, .reg_window input{
+    float:left;
+    font-size:16px;
+    padding:4px 2px;
+    border:solid 1px #cdc9c9;
+    width:220px;
+    margin:2px 0 20px 10px;
+}
+#ask textarea, #ask input {
+    height: 19px;
+}
+#ask input{
+    margin: 0;
+    width: 480px;
+}
+#basic input.checkbox, .reg_window input.checkbox{
+    width: auto;
+}
+
+#basic input.short, .reg_window input.short{
+    width: 39px;    
+}
+
+#basic input.medium, .reg_window input.medium{
+    width: 110px;    
+}
+
+#basic input.long, .reg_window input.long{
+    width: 220px;    
+}    
+
+
+
+#ask textarea, #promo textarea, #promo input, #invite input, #remind_pass textarea, #remind_pass input{
+    width:480px;
+    margin-left:0;
+    margin-top:0;
+    border-color:#dddddd;           
+}
+
+
+#promo textarea, #promo input, #invite input, #invite textarea, #remind_pass textarea, #remind_pass input{
+    width: 230px;
+    padding: 4px;
+    margin-bottom: 0px;
+}
+
+#advanced input{
+    font-size: 14px;
+    width: 150px;
+    padding: 4px;
+    margin-bottom: 0px;
+}
+
+#answer textarea, #answer input{
+    width:445px;
+    margin: 0px;
+    border-color:#dddddd;
+    font-family: Arial, Tahoma, sans-serif;
+}
+
+#basic select{
+    float:left;
+    font-size:16px;
+    padding:4px 2px;
+    border:solid 1px #cdc9c9;
+    width:224px;
+    margin:2px 0 20px 10px;
+}
+
+#basic button, #ask button, #answer button, #promo button, #invite button, #remind_pass button, .reg_window button{ 
+    /*clear:both;
+    margin-left:150px;*/
+    width:125px;
+    height:31px;
+    background:#666666 url(img/button.png) no-repeat;
+    text-align:center;
+    line-height:31px;
+    color:#FFFFFF;
+    font-size:11px;
+    font-weight:bold;
+}
+#ask button, #answer button, #promo button, #invite button, #remind_pass button{
+    background: url(img/ask_button.png) no-repeat transparent;  
+    /*margin-left: 5px;*/
+    width:85px;
+    height: 29px;
+}
+
+#promo button, #invite button, #remind_pass button{
+    margin-left: 10px;
+}
+
+#answer .checkbox{
+    width: auto;
+    margin-right: 10px;
+    border: none;   
+}
+
+#answer label{
+    display:block;
+    font-weight:bold;
+    text-align:right;
+    width:auto;
+    float:left;
+    margin-top:10px;
+}
+
+.cv{
+    color: #00a9a4
+}
+/*             User's properties       */
+.settings_form form label{
+    margin-top: 10px;
+    display: block;
+
+}
+
+.box{
+    display: inline;
+
+}
+
+.settings_form form input{
+    border: 1px solid #CDC9C9;
+    font-size: 16px;
+    margin: 0px 10px 10px 0px;
+    padding: 4px 2px;
+    
+}
+
+.settings_form form input.nomargin{
+    margin: 0px;
+}
+
+.settings_form form .verylong{
+    width: 485px;
+}
+
+.settings_form form .long{
+    width: 430px;
+}
+
+.settings_form form .medium{
+    width: 220px;
+}
+
+.settings_form form .short{
+    width: 80px;
+}
+
+.settings_form form button{
+    width:125px;
+    height:31px;
+    background:#666666 url(img/button.png) no-repeat;
+    text-align:center;
+    line-height:31px;
+    color:#FFFFFF;
+    font-size:11px;
+    font-weight:bold;
+}
+
+.settings_form form select{
+    padding: 0;
+}
+
+ul.nice-list li input{
+    border: 1px solid #999;
+    width: 220px;
+    padding: 4px;
+}

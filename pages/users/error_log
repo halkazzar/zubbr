@@ -1,0 +1,167 @@
+[17-Feb-2011 09:23:15] PHP Parse error:  syntax error, unexpected T_ELSE in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 275
+[18-Feb-2011 05:48:52] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/users/profile.php on line 6
+[18-Feb-2011 05:48:52] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/users/profile.php on line 8
+[18-Feb-2011 05:48:52] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/pages/users/profile.php:6) in /home/mh5sule/public_html/testkz/core/functions.php on line 93
+[18-Feb-2011 05:50:19] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/users/profile.php on line 7
+[18-Feb-2011 05:50:19] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/users/profile.php on line 8
+[18-Feb-2011 05:50:19] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/pages/users/profile.php:7) in /home/mh5sule/public_html/testkz/core/functions.php on line 93
+[18-Feb-2011 05:50:20] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/users/profile.php on line 7
+[18-Feb-2011 05:50:20] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/users/profile.php on line 8
+[18-Feb-2011 05:50:20] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mh5sule/public_html/testkz/pages/users/profile.php:7) in /home/mh5sule/public_html/testkz/core/functions.php on line 93
+[18-Feb-2011 06:22:59] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/users/profile.php on line 87
+[18-Feb-2011 06:40:21] PHP Notice:  Undefined variable: current_user in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 221
+[18-Feb-2011 06:40:21] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 221
+[18-Feb-2011 06:55:08] PHP Notice:  Undefined offset:  -1 in /home/mh5sule/public_html/testkz/core/functions.php on line 128
+[18-Feb-2011 06:55:08] PHP Notice:  Undefined offset:  -1 in /home/mh5sule/public_html/testkz/core/functions.php on line 129
+[21-Feb-2011 04:28:11] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 336
+[21-Feb-2011 04:28:11] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 438
+[21-Feb-2011 04:28:11] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 448
+[21-Feb-2011 04:32:51] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 336
+[21-Feb-2011 04:32:51] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 438
+[21-Feb-2011 04:32:51] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 448
+[21-Feb-2011 04:33:01] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 336
+[21-Feb-2011 04:33:01] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 438
+[21-Feb-2011 04:33:01] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 448
+[21-Feb-2011 04:33:48] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 343
+[21-Feb-2011 04:33:49] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 343
+[21-Feb-2011 04:34:13] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 445
+[21-Feb-2011 04:34:13] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 455
+[21-Feb-2011 04:37:00] PHP Notice:  Undefined variable: show_email in /home/mh5sule/public_html/testkz/pages/users/profile.php on line 48
+[21-Feb-2011 04:37:58] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 445
+[21-Feb-2011 04:37:58] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 455
+[21-Feb-2011 04:39:24] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 350
+[21-Feb-2011 04:39:25] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 350
+[21-Feb-2011 04:39:34] PHP Parse error:  syntax error, unexpected $end in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 396
+[21-Feb-2011 04:39:35] PHP Parse error:  syntax error, unexpected $end in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 396
+[21-Feb-2011 04:39:38] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 452
+[21-Feb-2011 04:39:38] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 462
+[21-Feb-2011 04:40:50] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 452
+[21-Feb-2011 04:40:50] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 462
+[21-Feb-2011 04:40:56] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 452
+[21-Feb-2011 04:40:56] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 462
+[21-Feb-2011 04:41:03] PHP Notice:  Undefined variable: que in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 94
+[21-Feb-2011 04:41:03] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 94
+[21-Feb-2011 04:41:03] PHP Fatal error:  Call to undefined method stdClass::save() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 113
+[21-Feb-2011 04:44:55] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 456
+[21-Feb-2011 04:44:55] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 466
+[21-Feb-2011 04:45:14] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 456
+[21-Feb-2011 04:45:14] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 466
+[21-Feb-2011 04:45:36] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 456
+[21-Feb-2011 04:45:36] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 466
+[21-Feb-2011 04:45:44] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 456
+[21-Feb-2011 04:45:44] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 466
+[21-Feb-2011 04:46:12] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 456
+[21-Feb-2011 04:46:12] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 466
+[21-Feb-2011 04:46:21] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 456
+[21-Feb-2011 04:46:21] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 466
+[21-Feb-2011 04:49:36] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 456
+[21-Feb-2011 04:49:36] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 466
+[21-Feb-2011 04:49:47] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 456
+[21-Feb-2011 04:49:47] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 466
+[21-Feb-2011 04:50:01] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 456
+[21-Feb-2011 04:50:01] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 466
+[21-Feb-2011 04:50:09] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 456
+[21-Feb-2011 04:50:09] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 466
+[21-Feb-2011 04:50:56] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 457
+[21-Feb-2011 04:50:56] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 467
+[21-Feb-2011 04:51:02] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 457
+[21-Feb-2011 04:51:02] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 467
+[21-Feb-2011 04:51:10] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 457
+[21-Feb-2011 04:51:10] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 467
+[21-Feb-2011 04:51:48] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 456
+[21-Feb-2011 04:51:48] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 466
+[21-Feb-2011 04:52:18] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 456
+[21-Feb-2011 04:52:18] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 466
+[21-Feb-2011 04:54:02] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 457
+[21-Feb-2011 04:54:02] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 467
+[21-Feb-2011 04:55:25] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 457
+[21-Feb-2011 04:55:25] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 467
+[21-Feb-2011 05:02:51] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 463
+[21-Feb-2011 05:02:51] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 473
+[21-Feb-2011 05:03:44] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 463
+[21-Feb-2011 05:03:44] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 473
+[21-Feb-2011 05:04:15] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 463
+[21-Feb-2011 05:04:15] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 473
+[21-Feb-2011 05:05:23] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 463
+[21-Feb-2011 05:05:23] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 473
+[21-Feb-2011 05:05:32] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 463
+[21-Feb-2011 05:05:32] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 473
+[21-Feb-2011 05:05:39] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 463
+[21-Feb-2011 05:05:39] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 473
+[21-Feb-2011 05:05:46] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 463
+[21-Feb-2011 05:05:46] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 473
+[21-Feb-2011 05:05:57] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 463
+[21-Feb-2011 05:05:57] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 473
+[21-Feb-2011 05:06:17] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 463
+[21-Feb-2011 05:06:17] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 473
+[21-Feb-2011 05:08:24] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 463
+[21-Feb-2011 05:08:24] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 473
+[21-Feb-2011 05:08:48] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 463
+[21-Feb-2011 05:08:48] PHP Warning:  Invalid argument supplied for foreach() in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 473
+[21-Feb-2011 05:17:06] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/users/profile.php on line 107
+[21-Feb-2011 05:20:01] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/users/profile.php on line 108
+[21-Feb-2011 05:33:48] PHP Notice:  Undefined offset:  -1 in /home/mh5sule/public_html/testkz/core/functions.php on line 128
+[21-Feb-2011 05:33:48] PHP Notice:  Undefined offset:  -1 in /home/mh5sule/public_html/testkz/core/functions.php on line 129
+[21-Feb-2011 05:33:48] PHP Notice:  Undefined offset:  -1 in /home/mh5sule/public_html/testkz/core/functions.php on line 128
+[21-Feb-2011 05:33:48] PHP Notice:  Undefined offset:  -1 in /home/mh5sule/public_html/testkz/core/functions.php on line 129
+[08-Apr-2011 04:25:14] PHP Notice:  Undefined index:  vk_app_2225351 in /home/mh5sule/public_html/testkz/core/functions.php on line 367
+[08-Apr-2011 04:25:14] PHP Notice:  Undefined index:  mrc in /home/mh5sule/public_html/testkz/include/top.inc on line 279
+[08-Apr-2011 04:25:14] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[08-Apr-2011 04:25:14] PHP Warning:  require_once(/home/mh5sule/public_html/testkz/include/_news.inc) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/testkz/pages/users/index.php on line 41
+[08-Apr-2011 04:25:14] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mh5sule/public_html/testkz/include/_news.inc' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/testkz/pages/users/index.php on line 41
+[08-Apr-2011 04:25:48] PHP Notice:  Undefined index:  vk_app_2225351 in /home/mh5sule/public_html/testkz/core/functions.php on line 367
+[08-Apr-2011 04:25:48] PHP Notice:  Undefined index:  mrc in /home/mh5sule/public_html/testkz/include/top.inc on line 279
+[08-Apr-2011 04:25:48] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[13-Apr-2011 09:20:07] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[22-Apr-2011 07:24:39] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[22-Apr-2011 07:24:40] PHP Warning:  require_once(/home/mh5sule/public_html/testkz/include/_news.inc) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/testkz/pages/users/all.php on line 160
+[22-Apr-2011 07:24:40] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mh5sule/public_html/testkz/include/_news.inc' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/testkz/pages/users/all.php on line 160
+[22-Apr-2011 07:25:01] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[22-Apr-2011 07:25:38] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[22-Apr-2011 07:25:43] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[25-Apr-2011 10:21:26] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[25-Apr-2011 11:15:42] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[26-Apr-2011 07:04:53] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[26-Apr-2011 07:04:53] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 645
+[26-Apr-2011 07:04:53] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 645
+[26-Apr-2011 07:04:53] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 645
+[26-Apr-2011 07:04:53] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 645
+[26-Apr-2011 07:06:04] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[26-Apr-2011 07:06:04] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 645
+[26-Apr-2011 07:06:04] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 645
+[26-Apr-2011 07:06:04] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 645
+[26-Apr-2011 07:06:04] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 645
+[26-Apr-2011 07:16:12] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[04-May-2011 10:43:20] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[04-May-2011 10:43:33] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[04-May-2011 12:30:45] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[04-May-2011 12:30:45] PHP Notice:  Undefined property: Session::$user_id in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 309
+[04-May-2011 19:09:17] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[04-May-2011 19:09:18] PHP Warning:  require_once(/home/mh5sule/public_html/testkz/include/_news.inc) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/testkz/pages/users/profile.php on line 140
+[04-May-2011 19:09:18] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mh5sule/public_html/testkz/include/_news.inc' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/testkz/pages/users/profile.php on line 140
+[13-May-2011 13:27:17] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[13-May-2011 13:30:55] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[13-May-2011 13:30:58] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[13-May-2011 13:30:58] PHP Warning:  require_once(/home/mh5sule/public_html/testkz/include/_news.inc) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/testkz/pages/users/profile.php on line 140
+[13-May-2011 13:30:58] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mh5sule/public_html/testkz/include/_news.inc' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/testkz/pages/users/profile.php on line 140
+[13-May-2011 13:31:03] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[13-May-2011 13:31:06] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[13-May-2011 13:31:06] PHP Warning:  require_once(/home/mh5sule/public_html/testkz/include/_news.inc) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/testkz/pages/users/profile.php on line 140
+[13-May-2011 13:31:06] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mh5sule/public_html/testkz/include/_news.inc' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/testkz/pages/users/profile.php on line 140
+[13-May-2011 13:31:08] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[13-May-2011 13:31:11] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[13-May-2011 13:31:11] PHP Warning:  require_once(/home/mh5sule/public_html/testkz/include/_news.inc) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/testkz/pages/users/profile.php on line 140
+[13-May-2011 13:31:11] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mh5sule/public_html/testkz/include/_news.inc' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/testkz/pages/users/profile.php on line 140
+[13-May-2011 13:31:13] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[13-May-2011 13:31:17] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[13-May-2011 13:31:17] PHP Notice:  Undefined offset:  -1 in /home/mh5sule/public_html/testkz/core/functions.php on line 149
+[13-May-2011 13:31:17] PHP Notice:  Undefined offset:  -1 in /home/mh5sule/public_html/testkz/core/functions.php on line 150
+[13-May-2011 13:31:17] PHP Warning:  require_once(/home/mh5sule/public_html/testkz/include/_news.inc) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/testkz/pages/users/profile.php on line 140
+[13-May-2011 13:31:17] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mh5sule/public_html/testkz/include/_news.inc' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/testkz/pages/users/profile.php on line 140
+[13-May-2011 13:31:28] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[13-May-2011 13:31:28] PHP Warning:  require_once(/home/mh5sule/public_html/testkz/include/_news.inc) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/testkz/pages/users/profile.php on line 140
+[13-May-2011 13:31:28] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mh5sule/public_html/testkz/include/_news.inc' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/testkz/pages/users/profile.php on line 140
+[13-May-2011 13:37:22] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[13-May-2011 13:37:22] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/users/settings.php on line 371
+[15-May-2011 17:07:15] PHP Warning:  require_once(/home/mh5sule/public_html/testkz/include/_news.inc) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/testkz/pages/users/profile.php on line 140
+[15-May-2011 17:07:15] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mh5sule/public_html/testkz/include/_news.inc' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/testkz/pages/users/profile.php on line 140

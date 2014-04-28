@@ -1,0 +1,80 @@
+<?php
+    /**
+    * Zubr
+    * Question listing asking block
+    * To use it properly 
+    * @package Zubr
+    * @author Dauren Sarsenov 
+    * @version 1.0, 01.09.2010
+    * @since engine v.1.0
+    * @copyright (c) 2010+ by Dauren Sarsenov
+    */
+
+    require_once $_SERVER['DOCUMENT_ROOT'] . '/core/initialize.php';
+
+
+    //    $url = 'http://jooble.kz/rss/RssHandler.ashx?id=23';
+    //    $limit       = 3; // nombre d'actus à afficher
+    //    $rss = new lastRSS;
+    //    $rss->cache_dir   = '/core/cache';
+    //    
+    //    $rss->cache_time  = 3600;      // fréquence de mise à jour du cache (en secondes)
+    //    $rss->date_format = 'd/m';     // format de la date (voir fonction date() pour syntaxe)
+    //    $rss->CDATA       = 'content'; // on retire les tags CDATA en conservant leur contenu
+
+    //    
+    //    if ($rs = $rss->get($url)) 
+    //    {
+    //    for($i=0;$i<$limit;$i++)
+    //    {
+    //    
+    //    echo '<strong>'.$rs['items'][$i]['pubDate'].'</strong> &middot; <a href="'.$rs['items'][$i]['link'].'">'.$rs['items'][$i]['title'].'</a><br />';
+    //    }
+    //    }
+    //    else 
+    //    {
+    //     echo ('Flux RSS non trouvé');
+    //    }
+    if(isset($_GET['invoker'])){
+        if($_GET['invoker'] == 'job'){
+            if(ctype_digit($_GET['first']) && ctype_digit($_GET['last'])){
+                $per_page = $_GET['last'] - $_GET['first'] + 1;
+                
+                $page = $_GET['last'] / $per_page;
+
+                $total_jobs = count(Jobposting::find_all());
+                $pagination = new Pagination($page, $per_page, $total_jobs);
+
+                $postings = jobposting::find_recent($per_page, $pagination->offset());    
+            }
+        }
+    }
+    else{
+        //$postings = jobposting::find_recent(4);
+    }
+
+
+
+    header('Content-Type: text/xml');
+    echo '<data>';
+
+    // Return total number of images so the callback
+    // can set the size of the carousel.
+    echo '  <total>' . $total_jobs . '</total>';
+    foreach ($postings as $post) {
+         
+        
+        echo '<jobposting>';
+        echo '  <job_id>' . $post->jobposting_id . '</job_id>';
+        echo '  <job_title><![CDATA[' . $post->title . ']]></job_title>';
+        
+        $arr = date_translate($post->date_of_publish);
+        echo '  <job_date><![CDATA[' . $arr['hour'] . ':' . $arr['min'] . ', '. $arr['day_word'] .', '. $arr['day'] . ' '. $arr['month_word2'] . ']]></job_date>';
+        
+        //$content = n_symbols($post->body, 500);
+        $content = $post->body;
+        echo '  <job_desc><![CDATA[' . close_dangling_tags($content) . ']]></job_desc>';
+        echo '</jobposting>';
+    }
+    echo '</data>';
+?>

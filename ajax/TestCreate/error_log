@@ -1,0 +1,5 @@
+[02-Feb-2010 15:13:48] PHP Parse error:  syntax error, unexpected T_ELSE in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/TestCreate/index.php on line 65
+[02-Feb-2010 15:25:57] PHP Parse error:  syntax error, unexpected T_ELSE in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/TestCreate/index.php on line 66
+[02-Feb-2010 15:27:02] PHP Parse error:  syntax error, unexpected T_ELSE in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/TestCreate/index.php on line 72
+[02-Feb-2010 15:57:38] PHP Parse error:  syntax error, unexpected $end in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/TestCreate/index.php on line 72
+[02-Feb-2010 15:59:09] PHP Fatal error:  Call to a member function sql_close() on a non-object in /usr/local/pem/vhosts/107739/webspace/httpdocs/ajax/TestCreate/index.php on line 80

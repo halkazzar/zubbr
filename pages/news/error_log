@@ -1,0 +1,60 @@
+[31-Mar-2011 12:29:39] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/mh5sule/public_html/testkz/pages/news/read.php on line 28
+[01-Apr-2011 04:35:42] PHP Notice:  Undefined property: Tagmap::$tag_name in /home/mh5sule/public_html/testkz/pages/news/read.php on line 21
+[01-Apr-2011 04:35:42] PHP Notice:  Undefined index:  vk_app_2225351 in /home/mh5sule/public_html/testkz/core/functions.php on line 367
+[01-Apr-2011 04:35:42] PHP Notice:  Undefined index:  session_key in /home/mh5sule/public_html/testkz/include/top.inc on line 281
+[01-Apr-2011 04:35:42] PHP Notice:  Undefined index:  session_key in /home/mh5sule/public_html/testkz/include/top.inc on line 282
+[01-Apr-2011 04:35:43] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/mh5sule/public_html/testkz/include/top.inc on line 282
+[01-Apr-2011 04:35:43] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[01-Apr-2011 04:35:43] PHP Notice:  Undefined index:  HTTP_REFERER in /home/mh5sule/public_html/testkz/pages/news/read.php on line 37
+[01-Apr-2011 04:35:43] PHP Notice:  Undefined index:  HTTP_REFERER in /home/mh5sule/public_html/testkz/pages/news/read.php on line 39
+[01-Apr-2011 04:35:43] PHP Warning:  require_once(/home/mh5sule/public_html/testkz/include/_test.inc) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/mh5sule/public_html/testkz/pages/news/read.php on line 161
+[01-Apr-2011 04:35:43] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/mh5sule/public_html/testkz/include/_test.inc' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mh5sule/public_html/testkz/pages/news/read.php on line 161
+[01-Apr-2011 04:36:20] PHP Notice:  Undefined property: Tagmap::$tag_name in /home/mh5sule/public_html/testkz/pages/news/read.php on line 21
+[01-Apr-2011 04:36:20] PHP Notice:  Undefined index:  vk_app_2225351 in /home/mh5sule/public_html/testkz/core/functions.php on line 367
+[01-Apr-2011 04:36:20] PHP Notice:  Undefined index:  session_key in /home/mh5sule/public_html/testkz/include/top.inc on line 281
+[01-Apr-2011 04:36:20] PHP Notice:  Undefined index:  session_key in /home/mh5sule/public_html/testkz/include/top.inc on line 282
+[01-Apr-2011 04:36:20] PHP Warning:  array_shift() [<a href='function.array-shift'>function.array-shift</a>]: The argument should be an array in /home/mh5sule/public_html/testkz/include/top.inc on line 282
+[01-Apr-2011 04:36:20] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[01-Apr-2011 04:36:20] PHP Notice:  Undefined index:  HTTP_REFERER in /home/mh5sule/public_html/testkz/pages/news/read.php on line 37
+[01-Apr-2011 04:36:20] PHP Notice:  Undefined index:  HTTP_REFERER in /home/mh5sule/public_html/testkz/pages/news/read.php on line 39
+[08-Apr-2011 04:26:21] PHP Notice:  Undefined property: Tagmap::$tag_name in /home/mh5sule/public_html/testkz/pages/news/read.php on line 18
+[08-Apr-2011 04:26:21] PHP Notice:  Undefined index:  vk_app_2225351 in /home/mh5sule/public_html/testkz/core/functions.php on line 367
+[08-Apr-2011 04:26:21] PHP Notice:  Undefined index:  mrc in /home/mh5sule/public_html/testkz/include/top.inc on line 279
+[08-Apr-2011 04:26:21] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[08-Apr-2011 04:26:21] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/news/read.php on line 85
+[08-Apr-2011 04:26:21] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/news/read.php on line 85
+[08-Apr-2011 04:26:21] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/news/read.php on line 85
+[08-Apr-2011 04:27:45] PHP Notice:  Undefined index:  vk_app_2225351 in /home/mh5sule/public_html/testkz/core/functions.php on line 367
+[08-Apr-2011 04:27:45] PHP Notice:  Undefined index:  mrc in /home/mh5sule/public_html/testkz/include/top.inc on line 279
+[08-Apr-2011 04:27:45] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[08-Apr-2011 04:27:45] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/news/read.php on line 86
+[08-Apr-2011 04:27:45] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/news/read.php on line 86
+[08-Apr-2011 04:27:45] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/news/read.php on line 86
+[08-Apr-2011 04:29:12] PHP Notice:  Undefined index:  mrc in /home/mh5sule/public_html/testkz/include/top.inc on line 279
+[08-Apr-2011 04:29:12] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[08-Apr-2011 04:29:12] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/news/read.php on line 85
+[08-Apr-2011 04:29:12] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/news/read.php on line 85
+[08-Apr-2011 04:29:12] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/news/read.php on line 85
+[08-Apr-2011 04:30:19] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[08-Apr-2011 04:30:19] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/news/read.php on line 85
+[08-Apr-2011 04:30:19] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/news/read.php on line 85
+[08-Apr-2011 04:30:19] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/news/read.php on line 85
+[08-Apr-2011 04:35:24] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[08-Apr-2011 04:35:24] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/news/read.php on line 85
+[08-Apr-2011 04:35:24] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/news/read.php on line 85
+[08-Apr-2011 04:35:24] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/news/read.php on line 85
+[08-Apr-2011 04:41:37] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[08-Apr-2011 04:41:37] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/news/read.php on line 85
+[08-Apr-2011 04:41:37] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/news/read.php on line 85
+[08-Apr-2011 04:41:37] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/news/read.php on line 85
+[13-Apr-2011 05:54:01] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[13-Apr-2011 05:54:01] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/news/read.php on line 85
+[13-Apr-2011 05:54:01] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/news/read.php on line 85
+[13-Apr-2011 05:54:01] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/news/read.php on line 85
+[13-Apr-2011 05:54:10] PHP Notice:  Trying to get property of non-object in /home/mh5sule/public_html/testkz/pages/news/read.php on line 15
+[13-Apr-2011 05:58:39] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[13-Apr-2011 09:14:18] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[25-Apr-2011 05:15:33] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[04-May-2011 10:06:01] PHP Notice:  Undefined index:  confirmation_status in /home/mh5sule/public_html/testkz/include/info_block.inc on line 2
+[25-Jul-2011 18:46:51] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/mh5sule/public_html/zubbr/include/top.inc on line 282
+[10-Feb-2012 10:05:45] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/mh5sule/public_html/zubbr/include/top.inc on line 282

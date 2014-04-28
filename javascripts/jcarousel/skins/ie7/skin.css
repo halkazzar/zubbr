@@ -1,0 +1,106 @@
+.jobcarousel {
+    width: 440px;
+    height: 300px;
+    padding: 40px 0px;
+}
+.newscarousel {
+    width: 440px;
+    height: 600px;
+    padding: 40px 0px;
+}
+.testcarousel {
+    width: 440px;
+    height: 300px;
+    padding: 40px 0px;
+}
+ 
+
+.jobcarousel .jcarousel-clip-vertical {
+    width:  440px;
+    height: 300px;
+}
+.newscarousel .jcarousel-clip-vertical {
+    width:  440px;
+    height: 600px;
+}
+.testcarousel .jcarousel-clip-vertical {
+    width:  440px;
+    height: 300px;
+}
+
+
+
+.jobcarousel .jcarousel-item, .newscarousel .jcarousel-item, .testcarousel .jcarousel-item {
+    width: 440px;
+    height: 300px;
+}
+
+
+.jobcarousel .jcarousel-item-placeholder {
+    height: 300px;
+    background: transparent url(/images/ajax-loader.gif) 50% 50% no-repeat;
+}
+
+.newscarousel .jcarousel-item-placeholder {
+    height: 300px;
+    background: transparent url(/images/ajax-loader.gif) 50% 50% no-repeat;
+}
+
+.testcarousel .jcarousel-item-placeholder {
+    height: 100px;
+    background: transparent url(/images/ajax-loader.gif) 50% 50% no-repeat;
+}
+
+
+/**
+ *  Vertical Buttons
+ */
+.jcarousel-skin-ie7 .jcarousel-next-vertical {
+    position: absolute;
+    bottom: 40px;
+    left: 200px;
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+    background: transparent url('next-vertical.png') no-repeat 0 0;
+}
+
+.jcarousel-skin-ie7 .jcarousel-next-vertical:hover {
+    background-position: 0 -32px;
+}
+
+.jcarousel-skin-ie7 .jcarousel-next-vertical:active {
+    background-position: 0 -64px;
+}
+
+.jcarousel-skin-ie7 .jcarousel-next-disabled-vertical,
+.jcarousel-skin-ie7 .jcarousel-next-disabled-vertical:hover,
+.jcarousel-skin-ie7 .jcarousel-next-disabled-vertical:active {
+    cursor: default;
+    background-position: 0 -96px;
+}
+
+.jcarousel-skin-ie7 .jcarousel-prev-vertical {
+    position: absolute;
+    top: 5px;
+    left: 200px;
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+    background: transparent url('prev-vertical.png') no-repeat 0 0;
+}
+
+.jcarousel-skin-ie7 .jcarousel-prev-vertical:hover {
+    background-position: 0 -32px;
+}
+
+.jcarousel-skin-ie7 .jcarousel-prev-vertical:active {
+    background-position: 0 -64px;
+}
+
+.jcarousel-skin-ie7 .jcarousel-prev-disabled-vertical,
+.jcarousel-skin-ie7 .jcarousel-prev-disabled-vertical:hover,
+.jcarousel-skin-ie7 .jcarousel-prev-disabled-vertical:active {
+    cursor: default;
+    background-position: 0 -96px;
+}

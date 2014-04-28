@@ -1,0 +1,68 @@
+<?php
+    /**
+    * Zubr
+    * Question listing asking block
+    * To use it properly 
+    * @package Zubr
+    * @author Dauren Sarsenov 
+    * @version 1.0, 01.09.2010
+    * @since engine v.1.0
+    * @copyright (c) 2010+ by Dauren Sarsenov
+    */
+
+    require_once $_SERVER['DOCUMENT_ROOT'] . '/core/initialize.php';
+?>
+
+<?php
+    if(!empty($_GET['ajax'])){
+        if($_GET['invoker'] == 'job'){
+            if(ctype_digit($_GET['first']) && ctype_digit($_GET['last'])){
+                $per_page = $_GET['last'] - $_GET['first'] + 1;
+                $page = $_GET['last'] / $per_page;
+
+                $total = count(Jobposting::find_all());
+                $pagination = new Pagination($page, $per_page, $total);
+
+                $postings =  Jobposting::find_recent($per_page, $pagination->offset());    
+            }
+            header('Content-Type: text/xml');
+            echo '<data>';
+            echo '<total>' . $total . '</total>';
+        }
+    }
+
+?>
+
+
+<?php
+    $index = 0;
+    if (!empty($postings)):
+        foreach ($postings as $post) :?>
+        <?php if(!empty($_GET['ajax'])) echo '<result><res_id>'.$post->jobposting_id.'</res_id><res_data><![CDATA[';?>
+        <div class="result">
+            <div class="post">
+                <div class="post-title"><h2><a href="/job/<?php echo $post->jobposting_id?>/"><?php echo $post->title?></a></h2></div> 
+                <div class="post-date"><?php $arr = date_translate($post->date_of_publish); echo $arr['hour'] . ':' . $arr['min'] . ', '. $arr['day_word'] .', '. $arr['day'] . ' '. $arr['month_word2']?></div> 
+                <div class="post-body text-justified"> 
+                    <?php 
+                        //$content = str_replace('images/', '/images/', $post->body);
+                        //$content = str_replace('<img ', '<img class="bordered left"', $content);
+                        //echo $content
+
+                        //$content = strip_tags($post->body);
+                        //$content = n_symbols($post->body, 500);
+                        $content = n_words($post->body, 20);
+                        echo close_dangling_tags($content);
+                    ?> 
+                </div> 
+                <div class="clearer">&nbsp;</div>
+                <div class="right"><a href="/job/<?php echo $post->jobposting_id?>/" class="more" title="Читать «<?php echo $post->title?>»">Полностью &#187;</a>
+                </div>
+            </div>
+        </div> 
+        <div class="content-separator"></div>
+        <?php if(!empty($_GET['ajax'])) echo ']]></res_data></result>';?>
+        <?php endforeach;?>
+    <?php endif;?>
+<?php if(!empty($_GET['ajax'])) echo '</data>';?>
+    

@@ -1,0 +1,121 @@
+#php_value session.use_only_cookies 1
+#php_value session.use_trans_sid 0
+#php_value upload_max_filesize 10M
+#php_value post_max_size 10M
+#php_value display_errors 1
+
+RewriteEngine On
+Options +FollowSymlinks
+RewriteBase /zubbr
+RewriteCond %{HTTP_HOST} ^zubbr.kz$
+RewriteRule ^(.*)$ http://www.zubbr.kz/$1 [R=301,L]
+
+
+
+RewriteRule ^abitur/page_([0-9]*)/ /index.php?section=abitur&page=$1 [L]
+RewriteRule ^alumni/page_([0-9]*)/ /index.php?section=alumni&page=$1 [L]
+RewriteRule ^student/page_([0-9]*)/ /index.php?section=student&page=$1 [L] 
+
+RewriteRule ^abitur/{0,1} /index.php?section=abitur [L]
+RewriteRule ^student/{0,1} /index.php?section=student [L]
+RewriteRule ^alumni/{0,1} /index.php?section=alumni [L]
+
+RewriteRule ^phpinfo/{0,1} /index.php?page=phpinfo [L]
+RewriteRule ^welcome/{0,1} /promo_landing.php [L]
+RewriteRule ^notfound/{0,1} /404.php [L]
+RewriteRule ^facebook/{0,1} /index.php?login_by=facebook [L]
+RewriteRule ^mailru/{0,1} /index.php?login_by=mailru [L]
+RewriteRule ^vk/{0,1} /index.php?login_by=vk [L]
+
+RewriteRule ^grants/{0,1} /pages/tag/tagfilter.php?tag_id=grants [L]
+
+
+RewriteRule ^test/passing/([0-9]*) /pages/test/passing.php?test=$1 [L]
+
+RewriteRule ^test/stats/details/([0-9]*)/ /pages/test/result.php?record_id=$1 [L]
+RewriteRule ^test/stats/page_([0-9]*)/ /pages/test/stat.php?page=$1 [L]
+RewriteRule ^test/stats/ /pages/test/stat.php?page=1 [L]
+
+RewriteRule ^test/kk/page_([0-9]*)/ /pages/test/index.php?page=$1&lang=1  [L]
+RewriteRule ^test/ru/page_([0-9]*)/ /pages/test/index.php?page=$1&lang=0  [L]
+
+RewriteRule ^test/page_([0-9]*)/ /pages/test/index.php?page=$1  [L]
+RewriteRule ^test/kk/{0,1} /pages/test/index.php?page=1&lang=1 [L]
+RewriteRule ^test/ru/{0,1} /pages/test/index.php?page=1&lang=0 [L]
+RewriteRule ^test/{0,1} /pages/test/index.php?page=1 [L]
+
+
+
+RewriteRule ^org/$ /pages/org/ [L]
+RewriteRule ^org/([A-Za-z0-9]*)/{0,1} /pages/org/$1/ [L]
+
+RewriteRule ^uni/$ /pages/uni/ [L]
+RewriteRule ^uni/like/([A-Za-z0-9]*)/$ /pages/uni/like.php?alias=$1 [L]
+
+RewriteRule ^uni/all/ /pages/uni/all.php [L]
+
+RewriteRule ^uni/search/ /pages/uni/search.php [L]
+#RewriteRule ^uni/search/([А-Яa-яA-Za-z0-9_ёЁ.\-]*)/page_([0-9]*)/{0,1} /pages/uni/search.php?query=$1&page=$2 [L]
+#RewriteRule ^uni/search/([А-Яa-яA-Za-z0-9_ёЁ.\-]*)/{0,1} /pages/uni/search.php?query=$1 [L]
+
+RewriteRule ^uni/([A-Za-z0-9]*)/paid_id=([0-9]*)/{0,1} /pages/uni/profile.php?alias=$1&paid_id=$2 [L]
+RewriteRule ^uni/([A-Za-z0-9]*)/free_id=([0-9]*)/{0,1} /pages/uni/profile.php?alias=$1&free_id=$2 [L]
+RewriteRule ^uni/([A-Za-z0-9]*)/{0,1} /pages/uni/profile.php?alias=$1 [L]
+ 
+ RewriteRule ^users/settings/{0,1} /pages/users/settings.php [L]
+ RewriteRule ^users/all/{0,1} /pages/users/all.php [L]
+ RewriteRule ^users/$ /pages/users/  [L]
+ RewriteRule ^users/load_avatar.php /pages/users/load_avatar.php [L]
+ RewriteRule ^users/registration/([А-Яa-яA-Za-z0-9_ёЁ.\-]*) /pages/users/registration/$1 [L]
+ RewriteRule ^users/passremind/([0-9]*)/([a-z0-9]*)/ /pages/users/passremind/index.php?user_id=$1&h=$2 [L]
+ RewriteRule ^users/emailactivate/([0-9]*)/([a-z0-9]*)/r /pages/users/emailactivate/index.php?user_id=$1&h=$2&r=r [L]
+ RewriteRule ^users/emailactivate/([0-9]*)/([a-z0-9]*)/ /pages/users/emailactivate/index.php?user_id=$1&h=$2 [L]
+ 
+ RewriteRule ^users/([А-Яa-яA-Za-z0-9_ёЁ.\-]*)/{0,1} /pages/users/profile.php?login=$1 
+
+RewriteRule ^news/([0-9]*)/{0,1} /pages/news/read.php?news_id=$1 [L]
+
+
+RewriteRule ^job/$ /pages/job/index.php?page=1 [L]
+RewriteRule ^job/page_([0-9]*)/{0,1} /pages/job/index.php?page=$1 [L]
+RewriteRule ^job/([0-9]*)/{0,1} /pages/job/read.php?job_id=$1 [L]
+
+RewriteRule ^tag/([0-9]*)/{0,1} /pages/tag/tagfilter.php?tag_id=$1 [L]
+
+
+
+RewriteRule ^questions/$ /pages/questions/index.php?page=1 [L]
+RewriteRule ^questions/ask/$ /pages/questions/new_question.php [L]
+RewriteRule ^questions/page_([0-9]*)/{0,1} /pages/questions/index.php?page=$1 [L]
+
+RewriteRule ^questions/cat/([A-Za-z0-9]*)/([0-9]*)/page_([0-9]*)/{0,1} /pages/questions/index.php?cat_id=$1&object_id=$2&page=$3 [L] 
+RewriteRule ^questions/cat/([A-Za-z0-9]*)/([0-9]*)/{0,1} /pages/questions/index.php?cat_id=$1&object_id=$2&page=1 [L] 
+
+RewriteRule ^questions/tagged/([А-Яa-яA-Za-z0-9_ёЁ.\-әіңғүұқөһӘІҢҒҮҰҚӨҺ+]*)/page_([0-9]*)/{0,1} /pages/questions/tagged.php?tag=$1&page=$2 [L] 
+RewriteRule ^questions/tagged/([А-Яa-яA-Za-z0-9_ёЁ.\-әіңғүұқөһӘІҢҒҮҰҚӨҺ+]*)/{0,1} /pages/questions/tagged.php?tag=$1&page=1 [L] 
+
+RewriteRule ^questions/unanswered/page_([0-9]*)/{0,1} /pages/questions/unanswered.php?page=$1 [L] 
+RewriteRule ^questions/unanswered/{0,1} /pages/questions/unanswered.php?page=1 [L] 
+
+
+RewriteRule ^questions/([A-Za-z0-9]*)/{0,1} /pages/questions/profile.php?question_id=$1 [L] 
+RewriteRule ^questions/([A-Za-z0-9]*)/page_([0-9]*)/{0,1} /pages/questions/profile.php?question_id=$1&page=$2 [L] 
+
+
+
+RewriteRule ^help/$ /pages/help/  [L] 
+RewriteRule ^help/([a-zA-Z0-9]*)/{0,1} /pages/help/index.php?page=$1 [L] 
+
+
+RewriteRule ^admin/page/([A-Za-z_]*)/([А-Яa-яA-Za-z0-9_ёЁ.\-]*)/merge/ /admin/index.php?page=$1&merge=$2 [L]
+RewriteRule ^admin/page/([A-Za-z_]*)/([А-Яa-яA-Za-z0-9_ёЁ.\-]*)/ /admin/index.php?page=$1&edit=$2 [L]
+RewriteRule ^admin/page/([A-Za-z_]*)/ /admin/index.php?page=$1 [L]
+
+
+
+
+#AuthUserFile "/home/mh5sule/.htpasswds/public_html/testkz/passwd"
+#AuthType Basic
+#AuthName "Private zone. "
+#require valid-user
+

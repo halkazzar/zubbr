@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /~pages/
+Disallow: /~inlcude/
+Disallow: /~index.php
+Disallow: /~promo_landing.php
+Disallow: /~sitemap.xml
